@@ -10,9 +10,9 @@ certainly change as we speak to more teams and analyse more data.
 [How we name services](https://www.gov.uk/service-manual/design/naming-your-service)
 
 Send suggestions or comments to harrytrimble@redcross.org.uk
-form
 
-Services as users see them (we think)
+
+## Services as users see them (we think)
 
 ## Phase 1 - Before emergency
 
@@ -332,22 +332,34 @@ Whos involved:
 
 ### Find a new house to live
 
-Tasks involved: 
+Tasks involved:
+
+1. Learn about your housing rights
+2. Contact your conncil, insurer or landlord
+3. Explain your situation
+4. Understand your housing options
+5. Choose a housing option
+6. Get confirmation about 
 
 Whos involved: 
 
 * Local council
 * Emergency response volunteers
 * Insurance company
+* Landlords
+* Hotels
 
-### Make a home insurance claims
+
+### Make a home insurance claim
 
 Tasks involved:
+* Refer to [Which? guide](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
 
 Whos involved: 
 
 * Hand-out packs given by ER teams
 * Insurance company
+* [Which?](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
 * Chat with Charlotte
 * Get money to repair your home after flood or fire
 * Grants from central and local government
@@ -355,6 +367,8 @@ Whos involved:
 ### Get support filling out forms
 
 Tasks involved:
+
+* Look at details in BRM
 
 Whos involved: 
 
@@ -375,7 +389,8 @@ Whos involved:
 
 ### Speak to someone if you’re feeling alone or upset
 
-Tasks involved: 
+Tasks involved:
+* Listen, give time and show humanity
 
 Whos involved: 
 
