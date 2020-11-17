@@ -1,4 +1,4 @@
-# Services as users see them, Crisis Response, British Red Cross
+# Services as users see them, Crisis Response
 
 Last updated 16 November
 
@@ -99,10 +99,11 @@ Who's involved:
 
 ### Learn to run an emergency centre
 
-Tasks involved:
+Learn to:
 
 1. Choose a space to use
 1. Assess people's needs
+1. Understand what partner services are needed
 1. Set the space for people to use
 1. Register people
 1. Direct people to other services
@@ -172,6 +173,7 @@ Tasks involved:
 1. Send emergency details to volunteers
 1. Update fire service about next steps
 1. Travel to location
+1. Listen, give time and show humanity
 1. Assess people's needs
 1. Help people plan their next steps
 
@@ -183,30 +185,46 @@ Who is involved:
 * Emergency response volunteers
 * Cash Crisis Cards
 
-### Get supplies in a power cut
+### Deliver supplies in a power cut
 
 Taks involved:
+
+1. Become aware people  without power for multiple hours
+1. Contact the Red Cross
+1. Give details about people in need
+1. Check what volunteers are available
+1. Send emergency details to volunteers
+1. Update fire service about next steps
+1. Travel to location
+1. Deliver winter supply bags
+1. Listen, give time and show humanity
+  1. Assess people's any urgent needs
+  1. Help people plan their next steps
 
 Whos involved:
 
 * Energy companies
 * Crisis Response Contact Centre
 * Emergency response volunteers
+* [Priority Services Register](https://www.ofgem.gov.uk/consumers/household-gas-and-electricity-guide/extra-help-energy-services/priority-services-register)
 
-### Support at modern slavery operations (requests from police)
+### Request support at modern slavery operations
 
 Tasks involved: 
+* we  don't know yet - will speak to teams who've responded to this
 
 Whos involved:
 
 * Police
 * Memorandum of Understanding between organisations - cans and can'ts
+* Advice for humanity work in slavery operations
 * Emergency response volunteers
 * Crisis Response Contact Centre
 
 ### Support at a terror attack
 
 Tasks involved:
+* we  don't know yet - will speak to teams who've responded to this
 
 Whos involved:
 
@@ -223,6 +241,18 @@ Whos involved:
 
 Tasks involved:
 
+1. Choose a space to use
+1. Assess people's needs
+1. Understand what partner services are needed
+1. Set the space for people to use
+1. Register people
+1. Direct people to other services
+1. Speak with distressed people
+1. Work with building owners
+1. Deal with the media
+1. Deal with local people wanting to help
+1. Deal with donations
+
 Whos involved:
 
 * Local council
@@ -230,11 +260,18 @@ Whos involved:
 * Crisis Response Contact Centre
 * Community groups
 
-Phase 3 - days
+## Phase 3 - days
 
 ### Get emergency food
 
 Tasks involved:
+
+1. Understand options for getting food
+1. Give details about diet
+1. Give delivery details
+1. Get confirmation about delivery
+1. Check delivery details
+1. Get food delivered
 
 Whos involved: 
 
@@ -250,7 +287,14 @@ Whos involved:
 
 ### Get medication delivered
 
-Tasks involved: 
+Tasks involved:
+
+1. Give medication details
+1. Give pharmacy details
+1. Give delivery details
+1. Get confirmation about delivery
+1. Check delivery details
+1. Get medication delivered
 
 Whos involved:
 
@@ -261,11 +305,19 @@ Whos involved:
 
 ### Support with living costs in an emergency
 
-Tasks involved: 
+Tasks involved:
+
+1. Explain your situation
+1. Understand why you will or won't get financial support
+1. Understand when and how much money you get
+1. Learn how you will recieve money
+1. Check when and how much you get
+1. Recieve money
+1. Learn about other financial support
 
 Whos involved: 
 
-* Hardship Fund
+* Hardship Fund - "links response to recover"
 * Cash Crisis Cards
 * Coronavirus Support Line
 * Refugee financial assistance
@@ -276,7 +328,7 @@ Whos involved:
 * Toiletries company
 
 
-Phase 4 - weeks
+## Phase 4 - weeks
 
 ### Find a new house to live
 
