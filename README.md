@@ -53,10 +53,11 @@ Prepare for a power cut
 
 Tasks involved:
 
-Get supplies
-Learn what to do in first few hours
-Find out when power will come back on
-Get assurance and human contact
+1. Get supplies
+1. Learn what to do in first few hours
+1. Find out when power will come back on
+1. Get assurance and human contact
+
 Who's involved:
 
 Emergency app
