@@ -38,33 +38,37 @@ Who's involved:
 
 Tasks involved:
 
-Understand flood risk where you live
-Find out when flooding is likely
-Find when to evacuate
-Prepare a grab bag
-Prepare your home to be flooded
-Who's involved
+1. Understand flood risk where you live
+1. Find out when flooding is likely
+1. Find when to evacuate
+1. Prepare a grab bag
+1. Prepare your home to be flooded
 
-Environment agency / GOV.UK
-Local resilience forums
-Emergency app
-Page on redcross.org.uk
-Prepare for a power cut
+Who's involved:
+
+* Environment agency / GOV.UK
+* Local resilience forums
+* Emergency app
+* Page on redcross.org.uk
+
+### Prepare for a power cut
 
 Tasks involved:
 
-Get supplies
-Learn what to do in first few hours
-Find out when power will come back on
-Get assurance and human contact
+1. Get supplies
+1. Learn what to do in first few hours
+1. Find out when power will come back on
+1. Get assurance and human contact
+
 Who's involved:
 
-Emergency app
-Power companies
-Local council
-Local Resilience Forum
-Priority Services Register
-Prepare for severe cold weather
+* Emergency app
+* Power companies
+* Local council
+* Local Resilience Forum
+* Priority Services Register
+
+### Prepare for severe cold weather
 
 Tasks involved:
 
@@ -78,38 +82,43 @@ Who's involved:
 * Emergency app
 * Local council
 * Local Resilience Forum
-* Prepare for a heatwave
+
+### Prepare for a heatwave
 
 Tasks involved:
 
-We don't know yet
+1. We don't know yet
+
 Who's involved:
 
-Emergency app
-Local council
-Local Resilience Forum
-Risk registers
-Water companies
-Learn to run an emergency centre
+* Emergency app
+* Local council
+* Local Resilience Forum
+* Risk registers
+* Water companies
+
+### Learn to run an emergency centre
 
 Tasks involved:
 
-Choose a space to use
-Assess people's needs
-Set the space for people to use
-Register people
-Direct people to other services
-Speak with distressed people
-Work with building owners
-Deal with the media
-Deal with local people wanting to help
-Deal with donations
-Who's involved
+1. Choose a space to use
+1. Assess people's needs
+1. Set the space for people to use
+1. Register people
+1. Direct people to other services
+1. Speak with distressed people
+1. Work with building owners
+1. Deal with the media
+1. Deal with local people wanting to help
+1. Deal with donations
 
-Red Cross training
-Council training exercise
-ER volunteer training
-Emergency practice exercises
+Who's involved:
+
+* Red Cross training
+* Council training exercise
+* ER volunteer training
+* Emergency practice exercises
+
 Emergency starts...
 
 ## Phase 2 - hours
@@ -118,40 +127,44 @@ Emergency starts...
 
 Tasks involved:
 
-Spot potential terrorist behaviour
-Stay safe during a attack
-Contact emergency services
-Find missing loved ones
-Get emotional support
+1. Spot potential terrorist behaviour
+1. Stay safe during a attack
+1. Contact emergency services
+1. Find missing loved ones
+1. Get emotional support
+
 Who's involved
 
-Emergency app
-GOV.UK
-Police
-999 - 55
-What three words
+* Emergency app
+* GOV.UK
+* Police
+* 999 - 55
+* What three words
 
 ### Find somewhere safe to sleep
 
-Check with family and friends
-Check your home insurance
-Check with council to provide
-Check with landlord
-Find way to travel
-Prove your identity
+Tasks involved: 
+
+1. Check with family and friends
+1. Check your home insurance
+1. Check with council to provide
+1. Check with landlord
+1. Find way to travel
+1. Prove your identity
 
 Who's involved:
 
-Crisis Response Contact Centre
-Emergency response volunteers
-Local council
-Insurance company
-Rights with council to house 'unintentionally homeless people'
-Home insurance
+* Crisis Response Contact Centre
+* Emergency response volunteers
+* Local council
+* Insurance company
+* Rights with council to house 'unintentionally homeless people'
+* Home insurance
 
 ### Request support at a domestic fire
 
 Tasks involved:
+
 1. Become aware of urgent needs
 1. Contact the Red Cross
 1. Give details about people in need
@@ -172,101 +185,167 @@ Who is involved:
 
 ### Get supplies in a power cut
 
-Energy companies
-Crisis Response Contact Centre
-Emergency response volunteers
+Taks involved:
+
+Whos involved:
+
+* Energy companies
+* Crisis Response Contact Centre
+* Emergency response volunteers
 
 ### Support at modern slavery operations (requests from police)
 
-Police
-Memorandum of Understanding between organisations - cans and can'ts
-Emergency response volunteers
-Crisis Response Contact Centre
-Support at a terror attack
+Tasks involved: 
 
-Police
-Memorandum of Understanding between organisations - cans and can'ts
-Crisis Response Contact Centre
-GOV.UK
-redcross.org.uk
-Local council
-DRIM
-Emergency response volunteers
-Run an emergency centre (requests from local councils)
+Whos involved:
 
-Local council
-Emergency response volunteers
-Crisis Response Contact Centre
-Community groups
+* Police
+* Memorandum of Understanding between organisations - cans and can'ts
+* Emergency response volunteers
+* Crisis Response Contact Centre
+
+### Support at a terror attack
+
+Tasks involved:
+
+Whos involved:
+
+* Police
+* Memorandum of Understanding between organisations - cans and can'ts
+* Crisis Response Contact Centre
+* GOV.UK
+* redcross.org.uk
+* Local council
+* DRIM
+* Emergency response volunteers
+
+### Run an emergency centre (requests from local councils)
+
+Tasks involved:
+
+Whos involved:
+
+* Local council
+* Emergency response volunteers
+* Crisis Response Contact Centre
+* Community groups
+
 Phase 3 - days
 
-Get emergency food
+### Get emergency food
 
-Coronavirus Support Line
-Tactical cells
-Person centred shopping scheme (funded by service user)
-BRC Emergency food intervention (Food parcels, Hugg vouchers)
-Hardship Fund
-Food packing
-Food logistics / delivery
-Local councils
-Food banks
-Get medication delivered
+Tasks involved:
 
-Coronavirus Support Line
-Tactical cells
-Pharmacies
-NHS
-Support with living costs in an emergency
+Whos involved: 
 
-Hardship Fund
-Cash Crisis Cards
-Coronavirus Support Line
-Refugee financial assistance
-Volunteer to help in an emergency
+* Coronavirus Support Line
+* Tactical cells
+* Person centred shopping scheme (funded by service user)
+* BRC Emergency food intervention (Food parcels, Hugg vouchers)
+* Hardship Fund
+* Food packing
+* Food logistics / delivery
+* Local councils
+* Food banks
 
-Community Reserse Volunteers
-Donate goods to an emergency
+### Get medication delivered
 
-Tesco donation
-Toiletries company
+Tasks involved: 
+
+Whos involved:
+
+* Coronavirus Support Line
+* Tactical cells
+* Pharmacies
+* NHS
+
+### Support with living costs in an emergency
+
+Tasks involved: 
+
+Whos involved: 
+
+* Hardship Fund
+* Cash Crisis Cards
+* Coronavirus Support Line
+* Refugee financial assistance
+* Volunteer to help in an emergency
+* Community Reserse Volunteers
+* Donate goods to an emergency
+* Tesco donation
+* Toiletries company
+
+
 Phase 4 - weeks
 
-Find a new house to live
+### Find a new house to live
 
-Local council
-Emergency response volunteers
-Insurance company
-Make a home insurance claims
+Tasks involved: 
 
-Hand-out packs given by ER teams
-Insurance company
-Chat with Charlotte
-Get money to repair your home after flood or fire
+Whos involved: 
 
-Grants from central and local government
-Get support filling out forms
+* Local council
+* Emergency response volunteers
+* Insurance company
 
-Crisis Response Contact Centre
-Emergency response volunteers
-Get financial advice
+### Make a home insurance claims
 
-Coronavirus Support Line
-Signposting tool
-Citizens Advice
-Money Advice Service
-Turn 2 Us
-Speak to someone if you’re feeling alone or upset
+Tasks involved:
 
-Coronavirus Support Line
-Samaritans
-Signposting tool
-Find other Red Cross services
+Whos involved: 
 
-Coronavirus Support Line
-redcross.org.uk
-Signposting tool
-Find services from other organisations
+* Hand-out packs given by ER teams
+* Insurance company
+* Chat with Charlotte
+* Get money to repair your home after flood or fire
+* Grants from central and local government
 
-Coronavirus Support Line
-Signposting tool
+### Get support filling out forms
+
+Tasks involved:
+
+Whos involved: 
+
+* Crisis Response Contact Centre
+* Emergency response volunteers
+
+### Get financial advice
+
+Tasks involved: 
+
+Whos involved: 
+
+* Coronavirus Support Line
+* Signposting tool
+* Citizens Advice
+* Money Advice Service
+* Turn 2 Us
+
+### Speak to someone if you’re feeling alone or upset
+
+Tasks involved: 
+
+Whos involved: 
+
+* Coronavirus Support Line
+* Samaritans
+* Signposting tool
+
+### Find other Red Cross services
+
+Tasks involved: 
+
+Whos involved: 
+
+* Coronavirus Support Line
+* redcross.org.uk
+* Signposting tool
+
+### Find services from other organisations
+
+Tasks involved: 
+
+Whos involved: 
+
+* Coronavirus Support Line
+* Signposting tool
