@@ -20,7 +20,7 @@ Tasks involved:
 
 Who's involved:
 
-* local resilience forums
+* [local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
 
