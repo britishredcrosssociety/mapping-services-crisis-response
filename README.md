@@ -2,6 +2,13 @@
 
 Last updated 18 November
 
+Services by emergency stage
+
+1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation)
+1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response)
+1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery)
+
 This is our team's current understanding of services in Crisis Response. It will
 certainly change as we speak to more teams and analyse more data.
 
@@ -25,7 +32,7 @@ Who's involved:
 * local charities
 
 
-## Stage two - Prepareness
+## Stage two - Preparedness
 
 ### Prepare for a fire
 
@@ -257,7 +264,7 @@ Whos involved:
 * DRIM
 * Emergency response volunteers
 
-### Run an emergency centre (requests from local councils)
+### Run an emergency centre
 
 Tasks involved:
 
@@ -389,7 +396,7 @@ Tasks involved:
 1. Wait for flood water to drain away
 1. Throw away damaged things
 1. Clean house
-1. Make home insurance claim
+1. [Make home insurance claim](https://github.com/britishredcrosssociety/mapping-services-crisis-response#make-a-home-insurance-claim)
 1. Get quotes for repairs
 1. Choose contractors
 1. Project manage repairs
