@@ -11,9 +11,6 @@ certainly change as we speak to more teams and analyse more data.
 
 Send suggestions or comments to harrytrimble@redcross.org.uk
 
-
-## Services as users see them (we think)
-
 ## Stage one - Mitigation
 
 ### Build relationship with local Red Cross
@@ -95,7 +92,7 @@ Who's involved:
 
 * Emergency app
 * Local council
-* Local Resilience Forum
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 
 ### Prepare for a heatwave
 
@@ -151,6 +148,17 @@ Who's involved:
 * Council training exercise
 * ER volunteer training
 * Emergency practice exercises
+
+### Learn how to work with people in emergencies
+
+Tasks involved:
+
+* We don't know yet - speak to psychosocial team
+
+Who's involed:
+
+* Red Cross training
+* Psychosocial teams
 
 ## Stage three - Response
 
