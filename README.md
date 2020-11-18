@@ -326,7 +326,7 @@ Whos involved:
 * Toiletries company
 
 
-## Stage four - recovery
+## Stage four - Recovery
 
 ### Find a new house to live
 
