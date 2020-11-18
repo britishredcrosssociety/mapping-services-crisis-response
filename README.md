@@ -245,7 +245,7 @@ Stats (to be confirmed):
 
 ### Request support at a domestic fire
 
-Tasks involved:
+Tasks involve:
 
 1. Become aware of urgent needs
 1. Contact the Red Cross
@@ -440,11 +440,52 @@ Whos involved:
 * Cash Crisis Cards
 * Coronavirus Support Line
 * Refugee financial assistance
-* Volunteer to help in an emergency
+* [Turn 2 us]()
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Volunteer to help in an emergency
+
+Tasks involved
+
+1. Give your contact details
+1. Find out there is a nearby emergency
+1. Get briefed about your shift
+1. Get confirmation about shift details
+1. Travel to emergency location
+1. Meet people on your shift
+1. Get briefed in person
+1. Do your shift
+1. Get de-briefed
+1. Travel home
+1. Claim back expenses
+1. Give feedback about shift experiene
+
+Who's involved:
+
 * Community Reserse Volunteers
-* Donate goods to an emergency
-* Tesco donation
-* Toiletries company
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Donate goods to an emergency
+
+Tasks involved:
+
+* find out more about different size and types of goods donated
+
+Who's involved:
+
+* Red Cross business partnership
+* Supermarkets
+* Consumer goods companies
+* Amazon
+* B&Q
 
 Stats (to be confirmed):
 
@@ -550,7 +591,8 @@ Whos involved:
 * [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 * Citizens Advice
 * Money Advice Service
-* Turn 2 Us
+* 
+2 Us
 
 Stats (to be confirmed):
 
