@@ -16,6 +16,18 @@ Send suggestions or comments to harrytrimble@redcross.org.uk
 
 ## Stage one - Mitigation
 
+### Build relationship with local Red Cross
+
+Tasks involved:
+- we don't know yet
+
+Who's involved:
+
+* local resilience forums
+* local community groups
+* local charities
+
+
 ## Stage two - Prepareness
 
 ### Prepare for a fire
@@ -359,8 +371,29 @@ Whos involved:
 * Insurance company
 * [Which?](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
 * Chat with Charlotte
-* Get money to repair your home after flood or fire
+* Get money to your home after flood or fire
 * Grants from central and local government
+
+### Repair your home after a flood
+
+Tasks involved:
+
+1. Wait for flood water to drain away
+1. Throw away damaged things
+1. Clean house
+1. Make home insurance claim
+1. Get quotes for repairs
+1. Choose contractors
+1. Project manage repairs
+1. Renew home insurance
+
+Who's involved:
+
+* local donations of cleaning materials
+* emergency centres
+* local council
+* home insurance companies
+* building contractors
 
 ### Get support filling out forms
 
