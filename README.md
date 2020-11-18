@@ -35,7 +35,7 @@ Who's involved:
 * local community groups
 * local charities
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -60,7 +60,7 @@ Who's involved:
 * American Red Cross example
 * BRC social media
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -83,7 +83,7 @@ Who's involved:
 * Emergency app
 * Page on redcross.org.uk
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -105,7 +105,7 @@ Who's involved:
 * Local Resilience Forum
 * Priority Services Register
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -125,7 +125,7 @@ Who's involved:
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -144,7 +144,7 @@ Who's involved:
 * Risk registers
 * Water companies
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -167,7 +167,7 @@ Who's involved
 * 999 - 55
 * What three words
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -195,7 +195,7 @@ Who's involved:
 * ER volunteer training
 * Emergency practice exercises
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -211,7 +211,7 @@ Who's involed:
 * Red Cross training
 * Psychosocial teams
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -238,7 +238,7 @@ Who's involved:
 * Rights with council to house 'unintentionally homeless people'
 * Home insurance
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -266,7 +266,7 @@ Who is involved:
 * Emergency response volunteers
 * Cash Crisis Cards
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -294,7 +294,7 @@ Whos involved:
 * Emergency response volunteers
 * [Priority Services Register](https://www.ofgem.gov.uk/consumers/household-gas-and-electricity-guide/extra-help-energy-services/priority-services-register)
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -312,7 +312,7 @@ Whos involved:
 * Emergency response volunteers
 * Crisis Response Contact Centre
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -333,7 +333,7 @@ Whos involved:
 * DRIM
 * Emergency response volunteers
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -361,7 +361,7 @@ Whos involved:
 * Crisis Response Contact Centre
 * Community groups
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -377,7 +377,7 @@ Tasks involved:
 1. Check delivery details
 1. Get food delivered
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -394,7 +394,7 @@ Whos involved:
 * Local councils
 * Food banks
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -417,7 +417,7 @@ Whos involved:
 * Pharmacies
 * NHS Prescription
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -446,7 +446,7 @@ Whos involved:
 * Tesco donation
 * Toiletries company
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -472,7 +472,7 @@ Whos involved:
 * Landlords
 * Hotels
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -491,7 +491,7 @@ Whos involved:
 * Get money to your home after flood or fire
 * Grants from central and local government
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -517,7 +517,7 @@ Who's involved:
 * home insurance companies
 * building contractors
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -533,7 +533,7 @@ Whos involved:
 * Crisis Response Contact Centre
 * Emergency response volunteers
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -552,7 +552,7 @@ Whos involved:
 * Money Advice Service
 * Turn 2 Us
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -571,7 +571,7 @@ Whos involved:
 * Domestic abuse charities
 * [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 
-Stats (To be confirmed):
+Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
