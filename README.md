@@ -14,7 +14,9 @@ Send suggestions or comments to harrytrimble@redcross.org.uk
 
 ## Services as users see them (we think)
 
-## Phase 1 - Before emergency
+## Phase 1 - Mitigation
+
+## Phase 2 - Prepareness
 
 ### Prepare for a fire
 
@@ -122,7 +124,7 @@ Who's involved:
 
 Emergency starts...
 
-## Phase 2 - hours
+## Phase 3 - Response
 
 ### What to do in a terrorist attack
 
@@ -260,8 +262,6 @@ Whos involved:
 * Crisis Response Contact Centre
 * Community groups
 
-## Phase 3 - days
-
 ### Get emergency food
 
 Tasks involved:
@@ -328,7 +328,7 @@ Whos involved:
 * Toiletries company
 
 
-## Phase 4 - weeks
+## Phase 4 - recovery
 
 ### Find a new house to live
 
