@@ -1,22 +1,23 @@
 # Services as users see them, Crisis Response
 
-Last updated 18 November
+*Last updated 18 November*
 
-Services by emergency stage
+This is our team's current understanding of services in Crisis Response. It will
+certainly change as we speak to more teams and analyse more data.
+
+Services by emergency stage:
 
 1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation)
 1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness)
 1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response)
 1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery)
 
-This is our team's current understanding of services in Crisis Response. It will
-certainly change as we speak to more teams and analyse more data.
 
 [Blog post introducing this work](https://medium.com/digital-and-innovation-at-british-red-cross/mapping-services-as-users-see-them-9b09c2defd69)
 
 [How we name services](https://www.gov.uk/service-manual/design/naming-your-service)
 
-Send suggestions or comments to harrytrimble@redcross.org.uk
+> Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this form](https://forms.office.com/Pages/ResponsePage.aspx?id=ujzc_l7KiEOoN7Rcfw1xt8szqeWGpq5MoJTS9323z7VUNFY1U09BWjVHTUpGMlJUSVM2R1RaWExJMy4u)
 
 ## Stage one - Mitigation
 
