@@ -1,6 +1,6 @@
 # Services as users see them, Crisis Response
 
-Last updated 16 November
+Last updated 18 November
 
 This is our team's current understanding of services in Crisis Response. It will
 certainly change as we speak to more teams and analyse more data.
@@ -275,7 +275,7 @@ Tasks involved:
 
 Whos involved: 
 
-* Coronavirus Support Line
+* [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
 * Tactical cells
 * Person centred shopping scheme (funded by service user)
 * BRC Emergency food intervention (Food parcels, Hugg vouchers)
@@ -298,10 +298,10 @@ Tasks involved:
 
 Whos involved:
 
-* Coronavirus Support Line
+* [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
 * Tactical cells
 * Pharmacies
-* NHS
+* NHS Prescription
 
 ### Support with living costs in an emergency
 
@@ -381,38 +381,22 @@ Tasks involved:
 
 Whos involved: 
 
-* Coronavirus Support Line
-* Signposting tool
+* [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
+* [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 * Citizens Advice
 * Money Advice Service
 * Turn 2 Us
 
-### Speak to someone if you’re feeling alone or upset
+### Speak to someone if you’re feeling alone, upset or distressed
 
 Tasks involved:
-* Listen, give time and show humanity
+1. Choose how you want to speak to someone
+1. Speak to someone
+1. Find specialist services
 
 Whos involved: 
 
-* Coronavirus Support Line
+* [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
 * Samaritans
-* Signposting tool
-
-### Find other Red Cross services
-
-Tasks involved: 
-
-Whos involved: 
-
-* Coronavirus Support Line
-* redcross.org.uk
-* Signposting tool
-
-### Find services from other organisations
-
-Tasks involved: 
-
-Whos involved: 
-
-* Coronavirus Support Line
-* Signposting tool
+* Domestic abuse charities
+* [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
