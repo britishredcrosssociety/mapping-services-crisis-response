@@ -14,9 +14,9 @@ Send suggestions or comments to harrytrimble@redcross.org.uk
 
 ## Services as users see them (we think)
 
-## Phase 1 - Mitigation
+## Stage one - Mitigation
 
-## Phase 2 - Prepareness
+## Stage two - Prepareness
 
 ### Prepare for a fire
 
@@ -99,6 +99,24 @@ Who's involved:
 * Risk registers
 * Water companies
 
+### What to do in a terrorist attack
+
+Tasks involved:
+
+1. Spot potential terrorist behaviour
+1. Stay safe during a attack
+1. Contact emergency services
+1. Find missing loved ones
+1. Get emotional support
+
+Who's involved
+
+* Emergency app
+* GOV.UK
+* Police
+* 999 - 55
+* What three words
+
 ### Learn to run an emergency centre
 
 Learn to:
@@ -122,27 +140,7 @@ Who's involved:
 * ER volunteer training
 * Emergency practice exercises
 
-Emergency starts...
-
-## Phase 3 - Response
-
-### What to do in a terrorist attack
-
-Tasks involved:
-
-1. Spot potential terrorist behaviour
-1. Stay safe during a attack
-1. Contact emergency services
-1. Find missing loved ones
-1. Get emotional support
-
-Who's involved
-
-* Emergency app
-* GOV.UK
-* Police
-* 999 - 55
-* What three words
+## Stage three - Response
 
 ### Find somewhere safe to sleep
 
@@ -328,7 +326,7 @@ Whos involved:
 * Toiletries company
 
 
-## Phase 4 - recovery
+## Stage four - recovery
 
 ### Find a new house to live
 
