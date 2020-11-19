@@ -45,7 +45,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -67,7 +67,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -78,7 +78,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -90,7 +90,6 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Understand flood risk where you live
 1. Find out when flooding is likely
 1. Find when to evacuate
@@ -99,7 +98,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -110,7 +109,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -129,7 +128,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -141,7 +140,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -160,7 +159,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -170,7 +169,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -186,7 +185,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -198,7 +197,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -226,7 +225,7 @@ Who's involved
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -251,7 +250,7 @@ Learn to:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -262,7 +261,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -283,7 +282,7 @@ Who's involed:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -306,7 +305,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -319,7 +318,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -351,7 +350,7 @@ Who is involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -383,7 +382,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -406,7 +405,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -432,7 +431,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -465,7 +464,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -486,12 +485,16 @@ Tasks for service users:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+How is this service delivered now:
+
+> To be confirm by interviewing teams
 
 Whos involved: 
 
@@ -507,7 +510,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -535,7 +538,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -555,6 +558,10 @@ Tasks for service users:
 1. Recieve money
 1. Learn about other financial support
 
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
 Whos involved: 
 
 * Hardship Fund - "links response to recover"
@@ -565,7 +572,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -591,7 +598,7 @@ Tasks involved
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -599,7 +606,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -615,7 +622,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -627,7 +634,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -647,6 +654,10 @@ Tasks for service users:
 5. Choose a housing option
 6. Get confirmation about 
 
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
 Whos involved: 
 
 * Local council
@@ -657,7 +668,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -670,6 +681,10 @@ Tasks for service users:
 
 * Refer to [Which? guide](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
 
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
 Whos involved: 
 
 * Hand-out packs given by ER teams
@@ -681,7 +696,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -703,7 +718,7 @@ Tasks for service users:
 
 How is this service delivered now:
 
-* To be confirm by interviewing teams
+> To be confirm by interviewing teams
 
 Who's involved:
 
@@ -715,7 +730,7 @@ Who's involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -729,6 +744,10 @@ Tasks for service users:
 
 * Look at details in BRM
 
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
 Whos involved: 
 
 * Crisis Response Contact Centre
@@ -736,7 +755,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -750,6 +769,10 @@ Tasks for service users:
 
 * We don't know yet - speak to support line volunteers to learn more
 
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
 Whos involved: 
 
 * [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
@@ -761,7 +784,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
@@ -776,6 +799,10 @@ Tasks for service users:
 1. Speak to someone
 1. Find specialist services
 
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
 Whos involved: 
 
 * [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
@@ -785,7 +812,7 @@ Whos involved:
 
 What software systems are used:
 
-* To be confirmed
+> To be confirmed
 
 Stats (to be confirmed):
 
