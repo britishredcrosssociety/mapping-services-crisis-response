@@ -6,10 +6,10 @@ This is our team's current understanding of services in Crisis Response. It will
 
 Services by emergency stage:
 
-1. [Mitigation](#stage-one---mitigation) (1)
-1. [Preparedness](#stage-two---preparedness) (8)
-1. [Response](#stage-three---response) (11)
-1. [Recovery](#stage-four---recovery) (6)
+1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
+1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (11)
+1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (6)
 
 Background information:
 
@@ -21,7 +21,9 @@ Background information:
 
 Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this form](https://forms.office.com/Pages/ResponsePage.aspx?id=ujzc_l7KiEOoN7Rcfw1xt8szqeWGpq5MoJTS9323z7VUNFY1U09BWjVHTUpGMlJUSVM2R1RaWExJMy4u)
 
-## Stage one - Mitigation (1)
+## Stage one - Mitigation 
+
+_1 service_
 
 ### Build relationship with local Red Cross
 
@@ -53,7 +55,9 @@ Stats (to be confirmed):
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 
-## Stage two - Preparedness (8)
+## Stage two - Preparedness
+
+_8 services_
 
 ### Prepare for a fire
 
@@ -289,7 +293,9 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-## Stage three - Response (11)
+## Stage three - Response
+
+_11 services_
 
 ### Find somewhere to sleep tonight
 
@@ -641,7 +647,9 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-## Stage four - Recovery (6)
+## Stage four - Recovery
+
+_6 services_
 
 ### Find a new house to live
 
