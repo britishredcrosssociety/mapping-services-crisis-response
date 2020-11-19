@@ -2,8 +2,7 @@
 
 *Last updated 19 November*
 
-This is our team's current understanding of services in Crisis Response. It will
-certainly change as we speak to more teams and analyse more data.
+This is our team's current understanding of services in Crisis Response. It will certainly change as we speak to more people and analyse more data.
 
 Services by emergency stage:
 
