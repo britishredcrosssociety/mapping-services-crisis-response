@@ -31,7 +31,7 @@ Tasks involved:
 
 Who's involved:
 
-* [local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
 
@@ -56,8 +56,8 @@ Tasks involved:
 Who's involved:
 
 * Fire service
-* Emergency app
-* American Red Cross example
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [American Red Cross example](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html)
 * BRC social media
 
 Stats (to be confirmed):
@@ -78,10 +78,10 @@ Tasks involved:
 
 Who's involved:
 
-* Environment agency / GOV.UK
-* Local resilience forums
-* Emergency app
-* Page on redcross.org.uk
+* [Environment Agency / GOV.UK](https://www.gov.uk/prepare-for-flooding)
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [Page on redcross.org.uk](https://www.redcross.org.uk/get-help/prepare-for-emergencies/how-to-prepare-for-floods-and-flooding)
 
 Stats (to be confirmed):
 
@@ -99,10 +99,10 @@ Tasks involved:
 
 Who's involved:
 
-* Emergency app
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Power companies
 * Local council
-* Local Resilience Forum
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * Priority Services Register
 
 Stats (to be confirmed):
@@ -121,7 +121,7 @@ Tasks involved:
 
 Who's involved:
 
-* Emergency app
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 
@@ -138,9 +138,9 @@ Tasks involved:
 
 Who's involved:
 
-* Emergency app
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Local council
-* Local Resilience Forum
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * Risk registers
 * Water companies
 
@@ -161,9 +161,9 @@ Tasks involved:
 
 Who's involved
 
-* Emergency app
-* GOV.UK
-* Police
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [GOV.UK content](https://www.gov.uk/terrorism-national-emergency)
+* [Police advice](https://www.met.police.uk/advice/advice-and-information/t/terrorism-in-the-uk/staying-safe-from-terrorism/)
 * 999 - 55
 * What three words
 
