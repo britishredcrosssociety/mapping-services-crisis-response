@@ -6,10 +6,10 @@ This is our team's current understanding of services in Crisis Response. It will
 
 Services by emergency stage:
 
-1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
-1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
-1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (11)
-1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (6)
+1. [Mitigation](#stage-one---mitigation) (1)
+1. [Preparedness](#stage-two---preparedness) (8)
+1. [Response](#stage-three---response) (11)
+1. [Recovery](#stage-four---recovery) (6)
 
 Background information:
 
