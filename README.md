@@ -45,7 +45,7 @@ Who's involved:
 
 What software systems are used:
 
-* Email and calendar
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -59,12 +59,15 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Prevent fires
 1. Learn how fires work
 1. Plan a exit out the building
 1. Install fire alarms  and extinguishers
 1. Prepare a grab bag
+
+How is this service delivered now:
+
+* To be confirm by interviewing teams
 
 Who's involved:
 
@@ -72,6 +75,10 @@ Who's involved:
 * [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * [American Red Cross example](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html)
 * BRC social media
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -90,12 +97,20 @@ Tasks for service users:
 1. Prepare a grab bag
 1. Prepare your home to be flooded
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * [Environment Agency / GOV.UK](https://www.gov.uk/prepare-for-flooding)
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * [Page on redcross.org.uk](https://www.redcross.org.uk/get-help/prepare-for-emergencies/how-to-prepare-for-floods-and-flooding)
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -112,6 +127,10 @@ Tasks for service users:
 1. Find out when power will come back on
 1. Get assurance and human contact
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
@@ -119,6 +138,10 @@ Who's involved:
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * Priority Services Register
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -135,11 +158,19 @@ Tasks for service users:
 1. Get updates about weather
 1. Make a plan with people nearby
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -153,6 +184,10 @@ Tasks for service users:
 
 1. We don't know yet
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
@@ -160,6 +195,10 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * Risk registers
 * Water companies
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -185,6 +224,10 @@ Who's involved
 * 999 - 55
 * What three words
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -206,12 +249,20 @@ Learn to:
 1. Deal with local people wanting to help
 1. Deal with donations
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * Red Cross training
 * Council training exercise
 * ER volunteer training
 * Emergency practice exercises
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -229,6 +280,10 @@ Who's involed:
 
 * Red Cross training
 * Psychosocial teams
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -249,6 +304,10 @@ Tasks for service users:
 1. Find way to travel
 1. Prove your identity
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * Crisis Response Contact Centre
@@ -257,6 +316,10 @@ Who's involved:
 * Insurance company
 * Rights with council to house 'unintentionally homeless people'
 * Home insurance
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -286,6 +349,10 @@ Who is involved:
 * Emergency response volunteers
 * Cash Crisis Cards
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -314,6 +381,10 @@ Whos involved:
 * Emergency response volunteers
 * [Priority Services Register](https://www.ofgem.gov.uk/consumers/household-gas-and-electricity-guide/extra-help-energy-services/priority-services-register)
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -332,6 +403,10 @@ Whos involved:
 * Advice for humanity work in slavery operations
 * Emergency response volunteers
 * Crisis Response Contact Centre
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -354,6 +429,10 @@ Whos involved:
 * Local council
 * DRIM
 * Emergency response volunteers
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -384,6 +463,10 @@ Whos involved:
 * Crisis Response Contact Centre
 * Community groups
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -401,6 +484,10 @@ Tasks for service users:
 1. Check delivery details
 1. Get food delivered
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -417,6 +504,10 @@ Whos involved:
 * Food logistics / delivery
 * Local councils
 * Food banks
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -441,6 +532,10 @@ Whos involved:
 * Tactical cells
 * Pharmacies
 * NHS Prescription
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -468,6 +563,10 @@ Whos involved:
 * Refugee financial assistance
 * [Turn 2 us]()
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -490,9 +589,17 @@ Tasks involved
 1. Claim back expenses
 1. Give feedback about shift experiene
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * Community Reserse Volunteers
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -506,6 +613,10 @@ Tasks for service users:
 
 * find out more about different size and types of goods donated
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * Red Cross business partnership
@@ -513,6 +624,10 @@ Who's involved:
 * Consumer goods companies
 * Amazon
 * B&Q
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -540,6 +655,10 @@ Whos involved:
 * Landlords
 * Hotels
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -560,6 +679,10 @@ Whos involved:
 * Get money to your home after flood or fire
 * Grants from central and local government
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -578,6 +701,10 @@ Tasks for service users:
 1. Project manage repairs
 1. Renew home insurance
 
+How is this service delivered now:
+
+* To be confirm by interviewing teams
+
 Who's involved:
 
 * local donations of cleaning materials
@@ -585,6 +712,10 @@ Who's involved:
 * local council
 * home insurance companies
 * building contractors
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -602,6 +733,10 @@ Whos involved:
 
 * Crisis Response Contact Centre
 * Emergency response volunteers
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
@@ -624,6 +759,10 @@ Whos involved:
 * 
 2 Us
 
+What software systems are used:
+
+* To be confirmed
+
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
@@ -643,6 +782,10 @@ Whos involved:
 * Samaritans
 * Domestic abuse charities
 * [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
+
+What software systems are used:
+
+* To be confirmed
 
 Stats (to be confirmed):
 
