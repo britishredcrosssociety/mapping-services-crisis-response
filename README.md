@@ -237,7 +237,7 @@ Stats (to be confirmed):
 
 ## Stage three - Response (11)
 
-### Find somewhere safe to sleep
+### Find somewhere to sleep tonight
 
 Tasks for service users:
 
