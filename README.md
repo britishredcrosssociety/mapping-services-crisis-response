@@ -26,14 +26,27 @@ Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this fo
 
 ### Build relationship with local Red Cross
 
-Tasks involved:
-- we don't know yet
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
 
 Who's involved:
 
+* Regional Red Cross ER staff
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
+
+What software systems are used:
+
+* Email and calendar
 
 Stats (to be confirmed):
 
@@ -45,7 +58,8 @@ Stats (to be confirmed):
 
 ### Prepare for a fire
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Prevent fires
 1. Learn how fires work
@@ -68,7 +82,8 @@ Stats (to be confirmed):
 
 ### Prepare for a flood
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Understand flood risk where you live
 1. Find out when flooding is likely
@@ -90,7 +105,8 @@ Stats (to be confirmed):
 
 ### Prepare for a power cut
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Get supplies
 1. Learn what to do in first few hours
@@ -112,7 +128,8 @@ Stats (to be confirmed):
 
 ### Prepare for severe cold weather
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Get supplies
 1. Get warning about severe could weather is likely
@@ -132,7 +149,8 @@ Stats (to be confirmed):
 
 ### Prepare for a heatwave
 
-Tasks involved:
+Tasks for service users:
+
 
 1. We don't know yet
 
@@ -151,7 +169,8 @@ Stats (to be confirmed):
 
 ### What to do in a terrorist attack
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Spot potential terrorist behaviour
 1. Stay safe during a attack
@@ -202,7 +221,8 @@ Stats (to be confirmed):
 
 ### Learn how to work with people in emergencies
 
-Tasks involved:
+Tasks for service users:
+
 
 * We don't know yet - speak to psychosocial team
 
@@ -220,7 +240,8 @@ Stats (to be confirmed):
 
 ### Find somewhere safe to sleep
 
-Tasks involved: 
+Tasks for service users:
+
 
 1. Check with family and friends
 1. Check your home insurance
@@ -301,7 +322,8 @@ Stats (to be confirmed):
 
 ### Request support at modern slavery operations
 
-Tasks involved: 
+Tasks for service users:
+
 * we  don't know yet - will speak to teams who've responded to this
 
 Whos involved:
@@ -319,7 +341,8 @@ Stats (to be confirmed):
 
 ### Support at a terror attack
 
-Tasks involved:
+Tasks for service users:
+
 * we  don't know yet - will speak to teams who've responded to this
 
 Whos involved:
@@ -340,7 +363,8 @@ Stats (to be confirmed):
 
 ### Run an emergency centre
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Choose a space to use
 1. Assess people's needs
@@ -368,7 +392,8 @@ Stats (to be confirmed):
 
 ### Get emergency food
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Understand options for getting food
 1. Give details about diet
@@ -401,7 +426,8 @@ Stats (to be confirmed):
 
 ### Get medication delivered
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Give medication details
 1. Give pharmacy details
@@ -424,7 +450,8 @@ Stats (to be confirmed):
 
 ### Support with living costs in an emergency
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Explain your situation
 1. Understand why you will or won't get financial support
@@ -475,7 +502,8 @@ Stats (to be confirmed):
 
 ### Donate goods to an emergency
 
-Tasks involved:
+Tasks for service users:
+
 
 * find out more about different size and types of goods donated
 
@@ -496,7 +524,8 @@ Stats (to be confirmed):
 
 ### Find a new house to live
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Learn about your housing rights
 2. Contact your conncil, insurer or landlord
@@ -520,7 +549,8 @@ Stats (to be confirmed):
 
 ### Make a home insurance claim
 
-Tasks involved:
+Tasks for service users:
+
 * Refer to [Which? guide](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
 
 Whos involved: 
@@ -539,7 +569,8 @@ Stats (to be confirmed):
 
 ### Repair your home after a flood
 
-Tasks involved:
+Tasks for service users:
+
 
 1. Wait for flood water to drain away
 1. Throw away damaged things
@@ -565,7 +596,8 @@ Stats (to be confirmed):
 
 ### Get support filling out forms
 
-Tasks involved:
+Tasks for service users:
+
 
 * Look at details in BRM
 
@@ -581,7 +613,8 @@ Stats (to be confirmed):
 
 ### Get financial advice
 
-Tasks involved:
+Tasks for service users:
+
 
 * We don't know yet - speak to support line volunteers to learn more
 
@@ -601,7 +634,8 @@ Stats (to be confirmed):
 
 ### Speak to someone if you’re feeling alone, upset or distressed
 
-Tasks involved:
+Tasks for service users:
+
 1. Choose how you want to speak to someone
 1. Speak to someone
 1. Find specialist services
