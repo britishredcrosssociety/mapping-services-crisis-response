@@ -7,10 +7,10 @@ certainly change as we speak to more teams and analyse more data.
 
 Services by emergency stage:
 
-1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation)
-1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness)
-1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response)
-1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery)
+1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
+1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (11)
+1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (6)
 
 Background information:
 
@@ -22,7 +22,7 @@ Background information:
 
 Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this form](https://forms.office.com/Pages/ResponsePage.aspx?id=ujzc_l7KiEOoN7Rcfw1xt8szqeWGpq5MoJTS9323z7VUNFY1U09BWjVHTUpGMlJUSVM2R1RaWExJMy4u)
 
-## Stage one - Mitigation
+## Stage one - Mitigation (1)
 
 ### Build relationship with local Red Cross
 
@@ -54,7 +54,7 @@ Stats (to be confirmed):
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 
-## Stage two - Preparedness
+## Stage two - Preparedness (8)
 
 ### Prepare for a fire
 
@@ -236,7 +236,7 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-## Stage three - Response
+## Stage three - Response (11)
 
 ### Find somewhere safe to sleep
 
@@ -520,12 +520,11 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-## Stage four - Recovery
+## Stage four - Recovery (6)
 
 ### Find a new house to live
 
 Tasks for service users:
-
 
 1. Learn about your housing rights
 2. Contact your conncil, insurer or landlord
@@ -570,7 +569,6 @@ Stats (to be confirmed):
 ### Repair your home after a flood
 
 Tasks for service users:
-
 
 1. Wait for flood water to drain away
 1. Throw away damaged things
