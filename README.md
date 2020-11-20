@@ -45,7 +45,7 @@ Who's involved:
 * local community groups
 * local charities
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -71,18 +71,22 @@ Tasks for service users:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+* Open days by local fire service
+* Safety campaigns by local fire services
+* Content on local fire service websites, like in [S Yorkshire](http://www.syfire.gov.uk/safety-advice/)
+* Content on Emergency app and several fire services websites.  
 
 Who's involved:
 
 * Fire service
-* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * [American Red Cross example](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html)
-* BRC social media
+* Social media team, Red Cross
+* Content team, Red Cross
 
-What software systems are used:
+Software systems, Red Cross involved:
 
-> To be confirmed
+* redcross.org.uk
+* Emergency App
 
 Stats (to be confirmed):
 
@@ -102,18 +106,23 @@ Tasks for service users:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+Online content and services on government websites, plus some content on redcross.org.uk and Emergency App. 
 
 Who's involved:
 
-* [Environment Agency / GOV.UK](https://www.gov.uk/prepare-for-flooding)
+* [Environment Agency](https://www.gov.uk/prepare-for-flooding) (England)
+* [Scottish Environment Protection Agency](https://www.sepa.org.uk/environment/water/flooding/)
+* [Natural Resources Wales](https://naturalresources.wales/flooding/check-flood-warnings/?lang=en)
+* [Department for Infrastructure](https://www.infrastructure-ni.gov.uk/topics/rivers-and-flooding) (Northern Ireland)
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
-* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [National Flood Forum](https://nationalfloodforum.org.uk/)
+* Social media team, Red Cross
+* Content team, Red Cross
+
+Software systems, Red Cross are used:
+
+* [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * [Page on redcross.org.uk](https://www.redcross.org.uk/get-help/prepare-for-emergencies/how-to-prepare-for-floods-and-flooding)
-
-What software systems are used:
-
-> To be confirmed
 
 Stats (to be confirmed):
 
@@ -124,7 +133,6 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Get supplies
 1. Learn what to do in first few hours
 1. Find out when power will come back on
@@ -132,29 +140,29 @@ Tasks for service users:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+Content on power companies' websites and [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 
 Who's involved:
 
-* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Power companies
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
-* Priority Services Register
+* [Priority Services Register](https://www.ofgem.gov.uk/consumers/household-gas-and-electricity-guide/extra-help-energy-services/priority-services-register)
+* BRC social media team
+* Content team, Red Cross
 
-What software systems are used:
+Software systems, Red Cross are used:
 
-> To be confirmed
+* [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Prepare for severe cold weather
+### Prepare for severe winter weather
 
 Tasks for service users:
-
 
 1. Get supplies
 1. Get warning about severe could weather is likely
@@ -163,43 +171,47 @@ Tasks for service users:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+Content on * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps) and [this page on redcross.org.uk](https://www.redcross.org.uk/get-involved/teaching-resources/winter-journey). Some content on [Red Cross training site](https://www.redcrossfirstaidtraining.co.uk/news-and-legislation/latest-news/heatwave-first-aid-tips-staying-safe-in-the-hot-weather/). Signing up for weather warnings from [Met Office](https://www.metoffice.gov.uk/public/weather/cold-weather-alert/?tab=coldWeatherAlert&season=normal)
 
 Who's involved:
 
-* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* [Met Office](https://www.metoffice.gov.uk/public/weather/cold-weather-alert/?tab=coldWeatherAlert&season=normal)
+* BRC social media team
+* Content team, Red Cross
 
-What software systems are used:
+Software systems, Red Cross are used:
 
-> To be confirmed
+* [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [redcross.org.uk](https://www.redcross.org.uk/get-involved/teaching-resources/winter-journey)
 
 Stats (to be confirmed):
 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Prepare for a heatwave
+### Prepare for hot weather
 
 Tasks for service users:
-
 
 1. We don't know yet
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+Content on [NHS.UK](https://www.nhs.uk/live-well/healthy-body/heatwave-how-to-cope-in-hot-weather/) and [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 
 Who's involved:
 
-* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * Risk registers
 * Water companies
+* Social media team, Red Cross
+* Content team, Red Cross
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -227,7 +239,7 @@ Who's involved
 * 999 - 55
 * What three words
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -263,7 +275,7 @@ Who's involved:
 * ER volunteer training
 * Emergency practice exercises
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -284,7 +296,7 @@ Who's involed:
 * Red Cross training
 * Psychosocial teams
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -322,7 +334,7 @@ Who's involved:
 * Rights with council to house 'unintentionally homeless people'
 * Home insurance
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -354,7 +366,7 @@ Who is involved:
 * Emergency response volunteers
 * Cash Crisis Cards
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -386,7 +398,7 @@ Whos involved:
 * Emergency response volunteers
 * [Priority Services Register](https://www.ofgem.gov.uk/consumers/household-gas-and-electricity-guide/extra-help-energy-services/priority-services-register)
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -409,7 +421,7 @@ Whos involved:
 * Emergency response volunteers
 * Crisis Response Contact Centre
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -435,7 +447,7 @@ Whos involved:
 * DRIM
 * Emergency response volunteers
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -468,7 +480,7 @@ Whos involved:
 * Crisis Response Contact Centre
 * Community groups
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -489,7 +501,7 @@ Tasks for service users:
 1. Check delivery details
 1. Get food delivered
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -514,7 +526,7 @@ Whos involved:
 * Local councils
 * Food banks
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -542,7 +554,7 @@ Whos involved:
 * Pharmacies
 * NHS Prescription
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -576,7 +588,7 @@ Whos involved:
 * Refugee financial assistance
 * [Turn 2 us]()
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -610,7 +622,7 @@ Who's involved:
 
 * Community Reserse Volunteers
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -638,7 +650,7 @@ Who's involved:
 * Amazon
 * B&Q
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -674,7 +686,7 @@ Whos involved:
 * Landlords
 * Hotels
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -702,7 +714,7 @@ Whos involved:
 * Get money to your home after flood or fire
 * Grants from central and local government
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -736,7 +748,7 @@ Who's involved:
 * home insurance companies
 * building contractors
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -761,7 +773,7 @@ Whos involved:
 * Crisis Response Contact Centre
 * Emergency response volunteers
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -790,7 +802,7 @@ Whos involved:
 * 
 2 Us
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
@@ -818,7 +830,7 @@ Whos involved:
 * Domestic abuse charities
 * [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 
-What software systems are used:
+Software systems, Red Cross are used:
 
 > To be confirmed
 
