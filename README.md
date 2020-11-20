@@ -1,4 +1,4 @@
-# Services as users see them, Crisis Response
+# Services as users see them, Emergency Response
 
 *Last updated 19 November*
 
@@ -106,7 +106,9 @@ Tasks for service users:
 
 How is this service delivered now:
 
-Online content and services on government websites, plus some content on redcross.org.uk and Emergency App. 
+* Online content and services on government websites
+* Content on redcross.org.uk 
+* Emergency App 
 
 Who's involved:
 
@@ -140,7 +142,8 @@ Tasks for service users:
 
 How is this service delivered now:
 
-Content on power companies' websites and [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* Content on power companies' websites 
+* [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 
 Who's involved:
 
@@ -227,16 +230,22 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Spot potential terrorist behaviour
 1. Stay safe during a attack
 1. Contact emergency services
 1. Find missing loved ones
 1. Get emotional support
 
+How is this service delivered now:
+
+* Police social meda teams
+* [Government public awareness campaigns](https://act.campaign.gov.uk/)
+* [GOV.UK content](https://www.gov.uk/terrorism-national-emergency)
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* Page on [redcross.org.uk](https://www.redcross.org.uk/get-help/prepare-for-emergencies/how-to-prepare-in-case-of-a-terrorist-attack)
+
 Who's involved
 
-* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * [GOV.UK content](https://www.gov.uk/terrorism-national-emergency)
 * [Police advice](https://www.met.police.uk/advice/advice-and-information/t/terrorism-in-the-uk/staying-safe-from-terrorism/)
 * 999 - 55
@@ -244,7 +253,8 @@ Who's involved
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+* [Emergency app](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* [redcross.org.uk](https://www.redcross.org.uk/get-help/prepare-for-emergencies/how-to-prepare-in-case-of-a-terrorist-attack)
 
 Stats (to be confirmed):
 
@@ -269,14 +279,14 @@ Learn to:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+* Council emergency planning exercises, which ER staff take part in
+* Training local organisations, run by regional ER staff
 
 Who's involved:
 
 * Red Cross training
-* Council training exercise
-* ER volunteer training
-* Emergency practice exercises
+* Local council
+* Emergency Planning College](https://www.epcresilience.com/)
 
 Software systems, Red Cross are used:
 
@@ -291,13 +301,17 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 * We don't know yet - speak to psychosocial team
+
+How is this service delivered now:
+
+* CALMER training run Psychosocial teams 
 
 Who's involed:
 
-* Red Cross training
-* Psychosocial teams
+* Psychosocial team, Red Cross
+* Local councils
+* Insurance companies
 
 Software systems, Red Cross are used:
 
@@ -316,7 +330,6 @@ _11 services_
 
 Tasks for service users:
 
-
 1. Check with family and friends
 1. Check your home insurance
 1. Check with council to provide
@@ -326,7 +339,10 @@ Tasks for service users:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+1. Fire services calling CRCC
+1. Volunteers in person helping people contact council housing teams, home insurers, landlords and hotels
+1. Volunteers telling people about their accomendation rights
+1. Cash cards for people to pay for hotel rooms
 
 Who's involved:
 
@@ -334,12 +350,11 @@ Who's involved:
 * Emergency response volunteers
 * Local council
 * Insurance company
-* Rights with council to house 'unintentionally homeless people'
-* Home insurance
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+* Volunteers' personal phones
+* Vehcile phone
 
 Stats (to be confirmed):
 
@@ -361,17 +376,24 @@ Tasks involve:
 1. Assess people's needs
 1. Help people plan their next steps
 
+How is this service delivered now:
+
+* Memorandum of Understanding between fire services and BRC
+* Fire services call up CRCC
+* Vehciles full of supplies like food, clothes, hygiene products, cash cards
+* Volunteers drive out to where people affected by fire
+
 Who is involved:
 
 * Fire service
-* Memorandum of Understanding between organisations - cans and can'ts
 * Crisis Response Contact Centre
 * Emergency response volunteers
 * Cash Crisis Cards
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+* volunteer rotas on SharePoint
+* New rota system (DRIM) 
 
 Stats (to be confirmed):
 
@@ -394,9 +416,17 @@ Taks involved:
   1. Assess people's any urgent needs
   1. Help people plan their next steps
 
+How is this service delivered now:
+
+* Memorandum of Understanding between utility companies and BRC
+* Fire services call up CRCC
+* Vehciles full of supplies like food, clothes, hygiene products, cash cards
+* Volunteers drive out to where people affected by power cut
+* Volunteers knocking on doors and handing out supplies
+
 Whos involved:
 
-* Energy companies
+* Utility companies
 * Crisis Response Contact Centre
 * Emergency response volunteers
 * [Priority Services Register](https://www.ofgem.gov.uk/consumers/household-gas-and-electricity-guide/extra-help-energy-services/priority-services-register)
@@ -416,13 +446,18 @@ Tasks for service users:
 
 * we  don't know yet - will speak to teams who've responded to this
 
+How is this service delivered now:
+
+* Police contacting regional ER teams ahead of time
+* Planning with police days and weeks beforehand
+* AHT teams giving advice to government agencies
+
 Whos involved:
 
 * Police
-* Memorandum of Understanding between organisations - cans and can'ts
-* Advice for humanity work in slavery operations
+* Border Force
+* Anti-human trafficking team, Red Cross
 * Emergency response volunteers
-* Crisis Response Contact Centre
 
 Software systems, Red Cross are used:
 
@@ -433,22 +468,23 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Support at a terror attack
+### Support at a terrorist attack
 
 Tasks for service users:
 
-* we  don't know yet - will speak to teams who've responded to this
+> we  don't know yet - will speak to teams who've responded to a terror attack
+
+How is this service delivered now:
+
+> we  don't know yet - will speak to teams who've responded to a terror attack 
 
 Whos involved:
 
 * Police
-* Memorandum of Understanding between organisations - cans and can'ts
-* Crisis Response Contact Centre
-* GOV.UK
-* redcross.org.uk
 * Local council
-* DRIM
+* Crisis Response Contact Centre
 * Emergency response volunteers
+* [UK Solidarity Fund](https://www.redcross.org.uk/about-us/what-we-do/uk-emergency-response/uk-solidarity-fund)
 
 Software systems, Red Cross are used:
 
@@ -463,7 +499,6 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Choose a space to use
 1. Assess people's needs
 1. Understand what partner services are needed
@@ -475,6 +510,10 @@ Tasks for service users:
 1. Deal with the media
 1. Deal with local people wanting to help
 1. Deal with donations
+
+How is this service delivered:
+
+* Council workers and ER volunteers open and set up a civic building for people affected to come to
 
 Whos involved:
 
@@ -496,7 +535,6 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Understand options for getting food
 1. Give details about diet
 1. Give delivery details
@@ -504,30 +542,25 @@ Tasks for service users:
 1. Check delivery details
 1. Get food delivered
 
-Software systems, Red Cross are used:
-
-> To be confirmed
-
-Stats (to be confirmed):
-
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+* Delivering food parcels people call up for
+* Do shopping for people and deliver it to their house
+* Direct people to local foodbanks
+* Huggg vouchers people can use in supermarkets
+* Volunteers coming to Thomas' garden for Tesco cash cards
 
 Whos involved: 
 
+* Local councils
+* Food banks
 * [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
 * Tactical cells
 * Person centred shopping scheme (funded by service user)
-* BRC Emergency food intervention (Food parcels, Hugg vouchers)
-* Hardship Fund
+* BRC Emergency food intervention (Food parcels, Huggg vouchers)
+* Hardship Fund team
 * Food packing
 * Food logistics / delivery
-* Local councils
-* Food banks
 
 Software systems, Red Cross are used:
 
@@ -542,7 +575,6 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Give medication details
 1. Give pharmacy details
 1. Give delivery details
@@ -550,12 +582,20 @@ Tasks for service users:
 1. Check delivery details
 1. Get medication delivered
 
+How is this service delivered now:
+
+1. Someone who needs medication delivered, calls up [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
+1. Details gets passed onto regional ER team
+1. Volunteers picks up medication from pharmacy, showing their ID
+1. Volunteer drives to address to deliver medication
+
 Whos involved:
 
 * [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
 * Tactical cells
 * Pharmacies
 * NHS Prescription
+* Private, free delivery services like [Echo](echo.co.uk)
 
 Software systems, Red Cross are used:
 
@@ -570,7 +610,6 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 1. Explain your situation
 1. Understand why you will or won't get financial support
 1. Understand when and how much money you get
@@ -581,19 +620,22 @@ Tasks for service users:
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+* People calling Coronavirus Support Line
+* Peopel referred by local partners to Hardship Fund - can take seven days to arrive
+* Cash Crisis Cards activated and given out in person
+* Refugee financial assistance
 
 Whos involved: 
 
-* Hardship Fund - "links response to recover"
-* Cash Crisis Cards
-* Coronavirus Support Line
-* Refugee financial assistance
-* [Turn 2 us]()
+* Emergency response volunteers
+* Hardship Fund referral partners
+* Crisis Response Contact Centre
+* [Citizens Advice]
+* [Turn 2 Us]()
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+> Bankable
 
 Stats (to be confirmed):
 
@@ -619,15 +661,18 @@ Tasks involved
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+People sign up online and get message if and when an emergency happens near them. They decide to respond or not (90% not)
 
 Who's involved:
 
 * Community Reserse Volunteers
+* Local councils
+* Food banks
 
 Software systems, Red Cross are used:
 
-> To be confirmed
+* CRV website
+* ISAAR - mobilisation and deployment tool
 
 Stats (to be confirmed):
 
@@ -638,12 +683,12 @@ Stats (to be confirmed):
 
 Tasks for service users:
 
-
 * find out more about different size and types of goods donated
 
 How is this service delivered now:
 
-> To be confirm by interviewing teams
+* Crisis Response team contact partners to donate goods
+* Local people bring items to an emergency centre
 
 Who's involved:
 
