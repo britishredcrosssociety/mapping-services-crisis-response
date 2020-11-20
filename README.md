@@ -171,15 +171,16 @@ Tasks for service users:
 
 How is this service delivered now:
 
-Content on * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps) and [this page on redcross.org.uk](https://www.redcross.org.uk/get-involved/teaching-resources/winter-journey). Some content on [Red Cross training site](https://www.redcrossfirstaidtraining.co.uk/news-and-legislation/latest-news/heatwave-first-aid-tips-staying-safe-in-the-hot-weather/). Signing up for weather warnings from [Met Office](https://www.metoffice.gov.uk/public/weather/cold-weather-alert/?tab=coldWeatherAlert&season=normal)
+Content on * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps) and [this page on redcross.org.uk](https://www.redcross.org.uk/get-involved/teaching-resources/winter-journey). Some content on [Red Cross training site](https://www.redcrossfirstaidtraining.co.uk/news-and-legislation/latest-news/heatwave-first-aid-tips-staying-safe-in-the-hot-weather/). Signing up for weather warnings from [Met Office](https://www.metoffice.gov.uk/public/weather/cold-weather-alert/?tab=coldWeatherAlert&season=normal). Public awareness campaigns by education team. 
 
 Who's involved:
 
 * Local council
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * [Met Office](https://www.metoffice.gov.uk/public/weather/cold-weather-alert/?tab=coldWeatherAlert&season=normal)
-* BRC social media team
+* Social media team, Red Cross
 * Content team, Red Cross
+* education team, Red Cross
 
 Software systems, Red Cross are used:
 
@@ -199,7 +200,9 @@ Tasks for service users:
 
 How is this service delivered now:
 
-Content on [NHS.UK](https://www.nhs.uk/live-well/healthy-body/heatwave-how-to-cope-in-hot-weather/) and [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* Content on [NHS.UK](https://www.nhs.uk/live-well/healthy-body/heatwave-how-to-cope-in-hot-weather/) 
+* [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
+* Example from [American Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/heat-wave-safety.html)
 
 Who's involved:
 
