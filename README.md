@@ -511,7 +511,7 @@ Whos involved:
 * Local council
 * Crisis Response Contact Centre
 * Emergency response volunteers
-* [UK Solidarity Fund](https://www.redcross.org.uk/about-us/what-we-do/uk-emergency-response/uk-solidarity-fund)
+* First Aid Nursing Yeomanry
 
 Software systems, Red Cross are used:
 
