@@ -8,7 +8,7 @@ Services by emergency stage:
 
 1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
 1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
-1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (11)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (12)
 1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (6)
 
 Background information:
@@ -324,7 +324,7 @@ Stats (to be confirmed):
 
 ## Stage three - Response
 
-_11 services_
+_12 services_
 
 ### Find somewhere to sleep tonight
 
@@ -469,6 +469,33 @@ Stats (to be confirmed):
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Support at a terrorist attack
+
+Tasks for service users:
+
+> we  don't know yet - will speak to teams who've responded to a terror attack
+
+How is this service delivered now:
+
+> we  don't know yet - will speak to teams who've responded to a terror attack 
+
+Whos involved:
+
+* Police
+* Local council
+* Crisis Response Contact Centre
+* Emergency response volunteers
+* [UK Solidarity Fund](https://www.redcross.org.uk/about-us/what-we-do/uk-emergency-response/uk-solidarity-fund)
+
+Software systems, Red Cross are used:
+
+> To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Find missing family after a terror attach
 
 Tasks for service users:
 
