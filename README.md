@@ -345,8 +345,8 @@ _14 services_
 [Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
 [Request support at a domestic fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-domestic-fire)<br>
 [Deliver supplies in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#deliver-supplies-in-power-cut)<br>
-[Request-support-at-a-modern-slavery-operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
-[Support at a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-at-a-terrorist-attack)<br>
+[Request support at a modern-slavery operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
+[Request support at a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-at-a-terrorist-attack)<br>
 [Find missing family after a terror-attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-missing-family-after-a-terror-attack)<br>
 [Run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#run-an-emergency-centre)<br>
 [Volunteer to help in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#volunteer-to-help-in-an-emergency)<br>
@@ -539,7 +539,7 @@ Whos involved:
 
 Software systems, Red Cross are used:
 
-> Bankable
+* Bankable
 
 Stats (to be confirmed):
 
@@ -653,7 +653,7 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Support at a terrorist attack
+### Request support at a terrorist attack
 
 Tasks for service users:
 
