@@ -25,7 +25,7 @@ Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this fo
 
 _1 service_
 
-* [Build relationship with local Red Cross](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#build-relationship-with-local-red-cross)
+[Build relationship with local Red Cross](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#build-relationship-with-local-red-cross)
 
 ### Build relationship with local Red Cross
 
@@ -61,14 +61,14 @@ Stats (to be confirmed):
 
 _8 services_
 
-* [Prepare for a fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-fire)
-* [Prepare for a flood](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-flood)
-* [Prepare for a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-power-cut)
-* [Prepare for severe winter weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-severe-winter-weather)
-* [Prepare for hot weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-hot-weather)
-* [What to do in a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#what-to-do-in-a-terrorist-attack)
-* [Learn to run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-run-an-emergency-centre)
-* [Learn how to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-how-to-speak-with-people-affected-by-emergencies)
+[Prepare for a fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-fire)<br>
+[Prepare for a flood](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-flood)<br>
+[Prepare for a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-power-cut)<br>
+[Prepare for severe winter weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-severe-winter-weather)<br>
+[Prepare for hot weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-hot-weather)<br>
+[What to do in a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#what-to-do-in-a-terrorist-attack)<br>
+[Learn to run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-run-an-emergency-centre)<br>
+[Learn how to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-how-to-speak-with-people-affected-by-emergencies)
 
 ### Prepare for a fire
 
