@@ -337,6 +337,21 @@ Stats (to be confirmed):
 
 _14 services_
 
+[Find somewhere to sleep tonight](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-somewhere-to-sleep-tonight)<br>
+[Get emergency clothes](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-clothes)<br>
+[Get emergency toiletries](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-toiletries)<br>
+[Request support at a domestic fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-domestic-fire)<br>
+[Deliver supplies in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#deliver-supplies-in-power-cut)<br>
+[Request-support-at-a-modern-slavery-operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
+[Support at a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-at-a-terrorist-attack)<br>
+[Find missing family after a terror-attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-missing-family-after-a-terror-attack)<br>
+[Run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#run-an-emergency-centre)<br>
+[get-emergency-food](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-food)<br>
+[Get medication delivered](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-medication-delivered)<br>
+[Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
+[Volunteer to help in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#volunteer-to-help-in-an-emergency)<br>
+[Donate goods to an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#donate-goods-to-an-emergency)
+
 ### Find somewhere to sleep tonight
 
 Tasks for service users:
@@ -499,7 +514,7 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Request support at modern slavery operations
+### Request support at a modern slavery operations
 
 Tasks for service users:
 
@@ -554,7 +569,7 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Find missing family after a terror attach
+### Find missing family after a terror attack
 
 Tasks for service users:
 
