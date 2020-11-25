@@ -8,7 +8,7 @@ Services by emergency stage:
 
 1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
 1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
-1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (12)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (14)
 1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (6)
 
 Background information:
@@ -335,7 +335,7 @@ Stats (to be confirmed):
 
 ## Stage three - Response
 
-_12 services_
+_14 services_
 
 ### Find somewhere to sleep tonight
 
