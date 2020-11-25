@@ -68,7 +68,7 @@ _8 services_
 [Prepare for hot weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-hot-weather)<br>
 [What to do in a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#what-to-do-in-a-terrorist-attack)<br>
 [Learn to run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-run-an-emergency-centre)<br>
-[Learn how to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-how-to-speak-with-people-affected-by-emergencies)
+[Learn to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-speak-with-people-affected-by-emergencies)
 
 ### Prepare for a fire
 
@@ -308,7 +308,7 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Learn how to speak with people affected by emergencies
+### Learn to speak with people affected by emergencies
 
 Tasks for service users:
 
@@ -366,6 +366,54 @@ Software systems, Red Cross are used:
 
 * Volunteers' personal phones
 * Vehcile phone
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Get emergency clothes
+
+Tasks for service users:
+
+> To be confirm
+
+How is this service delivered now:
+
+> To be confirmeed
+
+Who's involved:
+
+* Crisis Response Contact Centre
+* Emergency response volunteers
+
+Software systems, Red Cross are used:
+
+> To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Get emergency toiletries
+
+Tasks for service users:
+
+> To be confirm
+
+How is this service delivered now:
+
+> To be confirmeed
+
+Who's involved:
+
+* Crisis Response Contact Centre
+* Emergency response volunteers
+
+Software systems, Red Cross are used:
+
+> To be confirmed
 
 Stats (to be confirmed):
 
