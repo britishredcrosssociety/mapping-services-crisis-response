@@ -59,7 +59,7 @@ Stats (to be confirmed):
 
 ## Stage two - Preparedness
 
-_8 services_
+_8 services:_
 
 [Prepare for a fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-fire)<br>
 [Prepare for a flood](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-flood)<br>
@@ -335,7 +335,7 @@ Stats (to be confirmed):
 
 ## Stage three - Response
 
-_14 services_
+_14 service:s_
 
 [Find somewhere to sleep tonight](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-somewhere-to-sleep-tonight)<br>
 [Get emergency clothes](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-clothes)<br>
@@ -810,7 +810,7 @@ Stats (to be confirmed):
 
 ## Stage four - Recovery
 
-_4 services_
+_4 services:_
 
 [Speak to someone if you’re feeling alone or distressed](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#speak-to-someone-if-youre-feeling-alone-or-distressed)<br>
 [Find somewhere safe to live long term](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#finding-somewhere-safe-to-live-long-term)<br>
