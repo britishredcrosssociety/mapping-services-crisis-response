@@ -9,7 +9,7 @@ Services by emergency stage:
 1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
 1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
 1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (14)
-1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (6)
+1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (4)
 
 Background information:
 
@@ -345,7 +345,7 @@ _14 services_
 [Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
 [Request support at a domestic fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-domestic-fire)<br>
 [Deliver supplies in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#deliver-supplies-in-power-cut)<br>
-[Request support at a modern-slavery operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
+[Request support at a modern slavery operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
 [Request support at a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-at-a-terrorist-attack)<br>
 [Find missing family after a terror-attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-missing-family-after-a-terror-attack)<br>
 [Run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#run-an-emergency-centre)<br>
@@ -810,9 +810,42 @@ Stats (to be confirmed):
 
 ## Stage four - Recovery
 
-_6 services_
+_4 services_
 
-### Find a new house to live
+[Speak to someone if you’re feeling alone or distressed](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#speak-to-someone-if-youre-feeling-alone-or-distressed)<br>
+[Find somewhere safe to live long term](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#finding-somewhere-safe-to-live-long-term)<br>
+[Repair your home after a flood or fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#repair-your-home-after-a-flood-or-fire)<br>
+[Get money advice](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-money-advice)<br>
+
+### Speak to someone if you’re feeling alone or distressed
+
+Tasks for service users:
+
+1. Choose how you want to speak to someone
+1. Speak to someone
+1. Find specialist services
+
+How is this service delivered now:
+
+> To be confirm by interviewing teams
+
+Whos involved: 
+
+* [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
+* Samaritans
+* Domestic abuse charities
+* [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
+
+Software systems, Red Cross are used:
+
+> To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Finding somewhere safe to live long term
 
 Tasks for service users:
 
@@ -844,42 +877,14 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Make a home insurance claim
-
-Tasks for service users:
-
-* Refer to [Which? guide](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
-
-How is this service delivered now:
-
-> To be confirm by interviewing teams
-
-Whos involved: 
-
-* Hand-out packs given by ER teams
-* Insurance company
-* [Which?](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
-* Chat with Charlotte
-* Get money to your home after flood or fire
-* Grants from central and local government
-
-Software systems, Red Cross are used:
-
-> To be confirmed
-
-Stats (to be confirmed):
-
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
-### Repair your home after a flood
+### Repair your home after a flood or fire
 
 Tasks for service users:
 
 1. Wait for flood water to drain away
 1. Throw away damaged things
 1. Clean house
-1. [Make home insurance claim](https://github.com/britishredcrosssociety/mapping-services-crisis-response#make-a-home-insurance-claim)
+1. [Make home insurance claim](https://www.which.co.uk/money/insurance/home-insurance/home-insurance-explained/making-a-home-insurance-claim-a1v1d2n8jx5y)
 1. Get quotes for repairs
 1. Choose contractors
 1. Project manage repairs
@@ -906,32 +911,7 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Get support filling out forms
-
-Tasks for service users:
-
-
-* Look at details in BRM
-
-How is this service delivered now:
-
-> To be confirm by interviewing teams
-
-Whos involved: 
-
-* Crisis Response Contact Centre
-* Emergency response volunteers
-
-Software systems, Red Cross are used:
-
-> To be confirmed
-
-Stats (to be confirmed):
-
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
-### Get financial advice
+### Get money advice
 
 Tasks for service users:
 
@@ -950,34 +930,6 @@ Whos involved:
 * Money Advice Service
 * 
 2 Us
-
-Software systems, Red Cross are used:
-
-> To be confirmed
-
-Stats (to be confirmed):
-
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
-### Speak to someone if you’re feeling alone, upset or distressed
-
-Tasks for service users:
-
-1. Choose how you want to speak to someone
-1. Speak to someone
-1. Find specialist services
-
-How is this service delivered now:
-
-> To be confirm by interviewing teams
-
-Whos involved: 
-
-* [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
-* Samaritans
-* Domestic abuse charities
-* [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 
 Software systems, Red Cross are used:
 
