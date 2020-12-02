@@ -1,15 +1,15 @@
 # Services as users see them, Emergency Response
 
-*Last updated 19 November*
+*Last updated 2 December*
 
 This is our team's current understanding of services in Crisis Response. It will certainly change as we speak to more people and analyse more data.
 
 Services by emergency stage:
 
-1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (1)
+1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (8)
 1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
-1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (14)
-1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (4)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (15)
+1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (5)
 
 Background information:
 
@@ -23,11 +23,18 @@ Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this fo
 
 ## Stage one - Mitigation 
 
-_1 service_
+_8 services:_
 
-[Build relationship with local Red Cross](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#build-relationship-with-local-red-cross)
+[Plan for a flood in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-flood-in-your-area)<br>
+[Plan for a fire in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-fire-in-your-area)<br>
+[Plan for a power cut in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-power-cut-in-your-area)<br>
+[Plan for severe winter weather in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-severe-winter-weather-in-your-area)<br>
+[Plan for hot weather in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-hot-weather-in-your-area)<br>
+[Plan for a terroist attack in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-terroist-attack-in-your-area)<br>
+[Plan for a plane crash in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-plane-crash-in-your-area)<br>
+[Plan for Brexit in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-Brexit-in-your-area)
 
-### Build relationship with local Red Cross
+### Plan for a flood in your area
 
 Tasks for service users:
 
@@ -57,53 +64,47 @@ Stats (to be confirmed):
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 
+### Plan for a fire in your area
+
+> To be confirmed
+
+### Plan for a power cut in your area
+
+> To be confirmed
+
+### Plan for severe winter weather in your area
+
+> To be confirmed
+
+### Plan for hot weather in your area
+
+> To be confirmed
+
+### Plan for a terroist attack in your area
+
+> To be confirmed
+
+### Plan for a plane crash in your area
+
+> To be confirmed
+
+### Plan for Brexit in your area
+
+> To be confirmed
+
+
 ## Stage two - Preparedness
 
 _8 services:_
 
-[Prepare for a fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-fire)<br>
 [Prepare for a flood](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-flood)<br>
+[Prepare for a fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-fire)<br>
 [Prepare for a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-power-cut)<br>
 [Prepare for severe winter weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-severe-winter-weather)<br>
 [Prepare for hot weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-hot-weather)<br>
 [What to do in a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#what-to-do-in-a-terrorist-attack)<br>
 [Learn to run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-run-an-emergency-centre)<br>
 [Learn to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-speak-with-people-affected-by-emergencies)
-
-### Prepare for a fire
-
-Tasks for service users:
-
-1. Prevent fires
-1. Learn how fires work
-1. Plan a exit out the building
-1. Install fire alarms  and extinguishers
-1. Prepare a grab bag
-
-How is this service delivered now:
-
-* Open days by local fire service
-* Safety campaigns by local fire services
-* Content on local fire service websites, like in [S Yorkshire](http://www.syfire.gov.uk/safety-advice/)
-* Content on Emergency app and several fire services websites.  
-
-Who's involved:
-
-* Fire service
-* [American Red Cross example](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html)
-* Social media team, Red Cross
-* Content team, Red Cross
-
-Software systems, Red Cross involved:
-
-* redcross.org.uk
-* Emergency App
-
-Stats (to be confirmed):
-
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
 
 ### Prepare for a flood
 
@@ -136,6 +137,40 @@ Software systems, Red Cross are used:
 
 * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
 * [Page on redcross.org.uk](https://www.redcross.org.uk/get-help/prepare-for-emergencies/how-to-prepare-for-floods-and-flooding)
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Prepare for a fire
+
+Tasks for service users:
+
+1. Prevent fires
+1. Learn how fires work
+1. Plan a exit out the building
+1. Install fire alarms  and extinguishers
+1. Prepare a grab bag
+
+How is this service delivered now:
+
+* Open days by local fire service
+* Safety campaigns by local fire services
+* Content on local fire service websites, like in [S Yorkshire](http://www.syfire.gov.uk/safety-advice/)
+* Content on Emergency app and several fire services websites.  
+
+Who's involved:
+
+* Fire service
+* [American Red Cross example](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html)
+* Social media team, Red Cross
+* Content team, Red Cross
+
+Software systems, Red Cross involved:
+
+* redcross.org.uk
+* Emergency App
 
 Stats (to be confirmed):
 
@@ -335,14 +370,15 @@ Stats (to be confirmed):
 
 ## Stage three - Response
 
-_14 service:s_
+_15 services:_
 
+[Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
 [Find somewhere to sleep tonight](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-somewhere-to-sleep-tonight)<br>
 [Get emergency clothes](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-clothes)<br>
 [Get emergency toiletries](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-toiletries)<br>
 [Get emergency food](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-food)<br>
 [Get medication delivered](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-medication-delivered)<br>
-[Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
+[Transport and rehouse pets](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#transport-and-rehouse-pets)<br>
 [Request support at a domestic fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-domestic-fire)<br>
 [Deliver supplies in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#deliver-supplies-in-power-cut)<br>
 [Request support at a modern slavery operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
@@ -351,6 +387,42 @@ _14 service:s_
 [Run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#run-an-emergency-centre)<br>
 [Volunteer to help in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#volunteer-to-help-in-an-emergency)<br>
 [Donate goods to an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#donate-goods-to-an-emergency)
+
+### Support with living costs in an emergency
+
+Tasks for service users:
+
+1. Explain your situation
+1. Understand why you will or won't get financial support
+1. Understand when and how much money you get
+1. Learn how you will recieve money
+1. Check when and how much you get
+1. Recieve money
+1. Learn about other financial support
+
+How is this service delivered now:
+
+* People calling Coronavirus Support Line
+* Peopel referred by local partners to Hardship Fund - can take seven days to arrive
+* Cash Crisis Cards activated and given out in person
+* Refugee financial assistance
+
+Whos involved: 
+
+* Emergency response volunteers
+* Hardship Fund referral partners
+* Crisis Response Contact Centre
+* [Citizens Advice]
+* [Turn 2 Us]()
+
+Software systems, Red Cross are used:
+
+* Bankable
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Find somewhere to sleep tonight
 
@@ -510,41 +582,9 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
-### Support with living costs in an emergency
+### Transport and rehouse pets
 
-Tasks for service users:
-
-1. Explain your situation
-1. Understand why you will or won't get financial support
-1. Understand when and how much money you get
-1. Learn how you will recieve money
-1. Check when and how much you get
-1. Recieve money
-1. Learn about other financial support
-
-How is this service delivered now:
-
-* People calling Coronavirus Support Line
-* Peopel referred by local partners to Hardship Fund - can take seven days to arrive
-* Cash Crisis Cards activated and given out in person
-* Refugee financial assistance
-
-Whos involved: 
-
-* Emergency response volunteers
-* Hardship Fund referral partners
-* Crisis Response Contact Centre
-* [Citizens Advice]
-* [Turn 2 Us]()
-
-Software systems, Red Cross are used:
-
-* Bankable
-
-Stats (to be confirmed):
-
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+> To be confirmed
 
 ### Request support at a domestic fire
 
@@ -810,12 +850,13 @@ Stats (to be confirmed):
 
 ## Stage four - Recovery
 
-_4 services:_
+_5 services:_
 
 [Speak to someone if you’re feeling alone or distressed](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#speak-to-someone-if-youre-feeling-alone-or-distressed)<br>
 [Find somewhere safe to live long term](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#finding-somewhere-safe-to-live-long-term)<br>
+[Replace damaged furniture](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#replace-damaged-furniture)<br>
 [Repair your home after a flood or fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#repair-your-home-after-a-flood-or-fire)<br>
-[Get money advice](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-money-advice)<br>
+[Get money advice](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-money-advice)
 
 ### Speak to someone if you’re feeling alone or distressed
 
@@ -877,6 +918,10 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
+### Replace damaged furniture
+
+> To be confirmed
+
 ### Repair your home after a flood or fire
 
 Tasks for service users:
@@ -928,8 +973,7 @@ Whos involved:
 * [Signposting tool](https://operator-manual.redcross.org.uk/signposting/)
 * Citizens Advice
 * Money Advice Service
-* 
-2 Us
+* Turn 2 Us
 
 Software systems, Red Cross are used:
 
