@@ -174,7 +174,7 @@ Software systems, Red Cross involved:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __7,715__ recent service users - (2017-2020)[Google Analytics]
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Prepare for a power cut
