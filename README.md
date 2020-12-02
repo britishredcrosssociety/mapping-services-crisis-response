@@ -480,7 +480,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __3045__ cloth items given - (2017-2020)[BRM]
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Get emergency toiletries
@@ -504,7 +504,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __2648__ recent service users - (2017-2020)[BRC]
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Get emergency food
@@ -544,7 +544,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __79178 (88% in 2020)__ service users - (2017-2020)[BRC](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Get medication delivered
@@ -579,7 +579,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __475__ (2020) recent service users - [BRC]
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Transport and rehouse pets
