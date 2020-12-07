@@ -6,9 +6,9 @@ This is our team's current understanding of services in Crisis Response. It will
 
 Services by emergency stage:
 
-1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (8)
+1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (9)
 1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
-1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (15)
+1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (17)
 1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (5)
 
 Background information:
@@ -23,7 +23,7 @@ Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this fo
 
 ## Stage one - Mitigation 
 
-_8 services:_
+_9 services:_
 
 [Plan for a flood in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-flood-in-your-area)<br>
 [Plan for a fire in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-fire-in-your-area)<br>
@@ -85,7 +85,7 @@ Stats (to be confirmed):
 
 > To be confirmed
 
-### Plan for a industrial or chemical accident
+### Plan for a industrial or chemical accident in your area
 
 > To be confirmed
 
@@ -376,7 +376,7 @@ Stats (to be confirmed):
 
 ## Stage three - Response
 
-_15 services:_
+_17 services:_
 
 [Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
 [Find somewhere to sleep tonight](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-somewhere-to-sleep-tonight)<br>
