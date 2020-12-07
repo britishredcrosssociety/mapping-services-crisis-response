@@ -622,7 +622,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __8,234__ recent service users - (2017-2020, BRM)(https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Deliver supplies in a power cut
@@ -662,7 +662,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __2,219__ recent service users - (2017-2020, BRM)(https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Request support at a modern slavery operations
@@ -690,7 +690,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __579__ recent service users - (2017-2020, BRM)(https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Request support at a terrorist attack
@@ -717,7 +717,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __727__ recent service users - (2017-2020)(https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Find missing family after a terror attack
