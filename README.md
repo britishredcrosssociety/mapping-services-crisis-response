@@ -31,6 +31,7 @@ _8 services:_
 [Plan for severe winter weather in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-severe-winter-weather-in-your-area)<br>
 [Plan for hot weather in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-hot-weather-in-your-area)<br>
 [Plan for a terroist attack in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-terroist-attack-in-your-area)<br>
+[Plan for a industrial or chemical accident in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-industrial-or-chemical-accident)<br>
 [Plan for a plane crash in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-plane-crash-in-your-area)<br>
 [Plan for Brexit in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-Brexit-in-your-area)
 
@@ -84,6 +85,10 @@ Stats (to be confirmed):
 
 > To be confirmed
 
+### Plan for a industrial or chemical accident
+
+> To be confirmed
+
 ### Plan for a plane crash in your area
 
 > To be confirmed
@@ -91,6 +96,7 @@ Stats (to be confirmed):
 ### Plan for Brexit in your area
 
 > To be confirmed
+
 
 
 ## Stage two - Preparedness
@@ -379,8 +385,10 @@ _15 services:_
 [Get emergency food](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-emergency-food)<br>
 [Get medication delivered](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-medication-delivered)<br>
 [Transport and rehouse pets](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#transport-and-rehouse-pets)<br>
+[Get supplies for a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#get-supplies-for-a-power-cut)<br>
 [Request support at a domestic fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-domestic-fire)<br>
 [Deliver supplies in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#deliver-supplies-in-power-cut)<br>
+[Request welfare checks in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-welfare-checks-in-a-power-cut)<br>
 [Request support at a modern slavery operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
 [Request support at a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-at-a-terrorist-attack)<br>
 [Find missing family after a terror-attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-missing-family-after-a-terror-attack)<br>
@@ -586,7 +594,9 @@ Stats (to be confirmed):
 
 > To be confirmed
 
-### Request support at a domestic fire
+### Get supplies for a power cut
+
+> > To be confirmed
 
 Tasks involve:
 
@@ -664,6 +674,10 @@ Stats (to be confirmed):
 
 * __2,219__ recent service users - (2017-2020, BRM)(https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Request welfare checks in a powercut
+
+> To be confirmed
 
 ### Request support at a modern slavery operations
 
