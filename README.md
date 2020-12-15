@@ -67,35 +67,244 @@ Stats (to be confirmed):
 
 ### Plan for a fire in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+
 
 ### Plan for a power cut in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 ### Plan for severe winter weather in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 ### Plan for hot weather in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 ### Plan for a terroist attack in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 ### Plan for a industrial or chemical accident in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 ### Plan for a plane crash in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 ### Plan for Brexit in your area
 
+Tasks for service users:
+
+> we don't know yet
+
+How is this service delivered now:
+
+* Attend regular local resilience forum meetings
+* Meet local council emergency planning teams
+* Chair voluntary sub-sector groups of resilience forums
+* Take part in local emergency exercises
+
+Who's involved:
+
+* Regional Red Cross ER staff
+* [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
+* local community groups
+* local charities
+
+Software systems, Red Cross are used:
+
 > To be confirmed
+
+Stats (to be confirmed):
+
+* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
 
 
 
@@ -146,6 +355,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
+* __9,300__ page views with a  __65%__ bounce rate 
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
@@ -310,6 +520,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
+* __25,537__ page views with a __64%__ bounce rate
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
