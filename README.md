@@ -59,11 +59,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed): sat on  <b>37</b> out of <b>53 LRFs/EPGs/RRGs</b>.
+Stats:
 
-* __n/a__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __n/a__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for a fire in your area
 
@@ -89,12 +87,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for a power cut in your area
 
@@ -120,11 +115,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for severe winter weather in your area
 
@@ -150,11 +143,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for hot weather in your area
 
@@ -180,11 +171,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for a terroist attack in your area
 
@@ -210,11 +199,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for a industrial or chemical accident in your area
 
@@ -240,11 +227,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for a plane crash in your area
 
@@ -270,11 +255,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 ### Plan for Brexit in your area
 
@@ -300,12 +283,9 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats:
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-
-
+We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
 
 
 ## Stage two - Preparedness
