@@ -59,10 +59,10 @@ Software systems, Red Cross are used:
 
 > To be confirmed
 
-Stats (to be confirmed):
+Stats (to be confirmed): sat on  <b>37</b> out of <b>53 LRFs/EPGs/RRGs</b>.
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __n/a__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __n/a__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 
 ### Plan for a fire in your area
@@ -640,8 +640,8 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __447__ Cash based assistance users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __3516__ HUGG voucher users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Find somewhere to sleep tonight
 
