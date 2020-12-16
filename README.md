@@ -7,7 +7,7 @@ This is our team's current understanding of services in Crisis Response. It will
 Services by emergency stage:
 
 1. [Mitigation](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-one---mitigation) (9)
-1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (8)
+1. [Preparedness](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-two---preparedness) (9)
 1. [Response](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-three---response) (17)
 1. [Recovery](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#stage-four---recovery) (5)
 
@@ -101,7 +101,7 @@ Stats (to be confirmed):
 
 ## Stage two - Preparedness
 
-_8 services:_
+_9 services:_
 
 [Prepare for a flood](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-flood)<br>
 [Prepare for a fire](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-a-fire)<br>
@@ -110,7 +110,8 @@ _8 services:_
 [Prepare for hot weather](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#prepare-for-hot-weather)<br>
 [What to do in a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#what-to-do-in-a-terrorist-attack)<br>
 [Learn to run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-run-an-emergency-centre)<br>
-[Learn to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-speak-with-people-affected-by-emergencies)
+[Learn to speak with people affected by emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-speak-with-people-affected-by-emergencies)<br>
+[Learn to support frontline teams through traumatic emergencies](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#learn-to-support-your-frontline-through-traumatic-emergencies)
 
 ### Prepare for a flood
 
@@ -374,9 +375,13 @@ Stats (to be confirmed):
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
+### Learn to support frontline teams through traumatic emergencies
+
+> To be confirmed
+
 ## Stage three - Response
 
-_17 services:_
+_18 services:_
 
 [Support with living costs in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-with-living-costs-in-an-emergency)<br>
 [Find somewhere to sleep tonight](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-somewhere-to-sleep-tonight)<br>
@@ -391,6 +396,7 @@ _17 services:_
 [Request welfare checks in a power cut](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-welfare-checks-in-a-power-cut)<br>
 [Request support at a modern slavery operations](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-support-at-a-modern-slavery-operations)<br>
 [Request support at a terrorist attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#support-at-a-terrorist-attack)<br>
+[Request emotional support for frontline teams](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#request-emotional-support-for-frontline-teams)<br>
 [Find missing family after a terror-attack](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#find-missing-family-after-a-terror-attack)<br>
 [Run an emergency centre](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#run-an-emergency-centre)<br>
 [Volunteer to help in an emergency](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#volunteer-to-help-in-an-emergency)<br>
@@ -733,6 +739,10 @@ Stats (to be confirmed):
 
 * __727__ recent service users - (2017-2020)(https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+
+### Request emotional support for frontline teams
+
+> To be confirmed
 
 ### Find missing family after a terror attack
 
