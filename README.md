@@ -336,8 +336,8 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __9,300__ page views with a  __65%__ bounce rate 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __9,599__ recent service users (9,300 web, 299 App) (2017-2020, Google Analytics)
+* __65%__ bounce rate 
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Prepare for a fire
@@ -371,7 +371,7 @@ Software systems, Red Cross involved:
 
 Stats (to be confirmed):
 
-* __7,715__ recent service users - (2017-2020, Google Analytics)
+* __291__ recent service users - (2017-2020, Emergency App Google Analytics)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Prepare for a power cut
@@ -403,7 +403,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __287__ recent service users - (2017-2020, Emergency App Google Analytics)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Prepare for severe winter weather
@@ -435,7 +435,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __256__ recent service users - (2017-2020, Emergency App Google Analytics)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Prepare for hot weather
@@ -501,8 +501,7 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
-* __25,537__ page views with a __64%__ bounce rate
-* __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __26,160__ recent service users (25,537 web, 623 App) (2017-2020, Google Analytics)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
 ### Learn to run an emergency centre
