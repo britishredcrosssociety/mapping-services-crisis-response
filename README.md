@@ -61,7 +61,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for a fire in your area
 
@@ -89,7 +89,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for a power cut in your area
 
@@ -117,7 +117,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for severe winter weather in your area
 
@@ -145,7 +145,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for hot weather in your area
 
@@ -173,7 +173,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for a terroist attack in your area
 
@@ -201,7 +201,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for a industrial or chemical accident in your area
 
@@ -229,7 +229,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for a plane crash in your area
 
@@ -257,7 +257,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 ### Plan for Brexit in your area
 
@@ -285,7 +285,7 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53 local  planning groups (LRFs/EPGs/RRGs)</b>.
+We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
 
 
 ## Stage two - Preparedness
