@@ -13,6 +13,7 @@ Services by emergency stage:
 
 Background information:
 
+* [Videos: weekly show and tells](https://www.youtube.com/channel/UCoXybfuTqcdIO75U9DAI9uQ/videos)
 * [Blog post introducing this work](https://medium.com/digital-and-innovation-at-british-red-cross/mapping-services-as-users-see-them-9b09c2defd69)
 * [Project plan](https://trello.com/b/iCcfvBM0/mapping-services-crisis-response)
 * [How we name services](https://www.gov.uk/service-manual/design/naming-your-service)
