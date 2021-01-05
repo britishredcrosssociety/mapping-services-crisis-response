@@ -348,7 +348,7 @@ Stats (to be confirmed):
 
 * __9,599__ recent service users (9,300 web, 299 App) (2017-2020, Google Analytics)
 * __65%__ bounce rate 
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __2.4 million properties__ at risk of flood - [Environment Agency, 2009](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/292928/geho0609bqds-e-e.pdf)
 
 ### Prepare for a fire
 
@@ -382,7 +382,7 @@ Software systems, Red Cross involved:
 Stats (to be confirmed):
 
 * __291__ recent service users - (2017-2020, Emergency App Google Analytics)
-* __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
+* __169,175__ potential service users per year - [Home Office, 2017-2020](https://www.gov.uk/government/collections/fire-statistics-great-britain)
 
 ### Prepare for a power cut
 
