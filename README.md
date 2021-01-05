@@ -1,6 +1,6 @@
 # Services as users see them, Emergency Response
 
-*Last updated 2 December*
+*Last updated 5 January*
 
 This is our team's current understanding of services in Crisis Response. It will certainly change as we speak to more people and analyse more data.
 
@@ -62,7 +62,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>185</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for a fire in your area
 
@@ -90,7 +91,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>1740</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for a power cut in your area
 
@@ -118,7 +120,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>177</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for severe winter weather in your area
 
@@ -146,7 +149,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>15</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for hot weather in your area
 
@@ -174,7 +178,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>Negligible</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for a terroist attack in your area
 
@@ -202,7 +207,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>1</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for a industrial or chemical accident in your area
 
@@ -230,9 +236,10 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>Negligible</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
-### Plan for a plane crash in your area
+### Plan for a plane or train crash in your area
 
 Tasks for service users:
 
@@ -258,7 +265,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>Negligible</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 ### Plan for Brexit in your area
 
@@ -286,7 +294,8 @@ Software systems, Red Cross are used:
 
 Stats:
 
-We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
+* <b>Unknown</b> response requests, Q4-2018 to Q3-2020 (Crisis Response Contact Centre) 
 
 
 ## Stage two - Preparedness
