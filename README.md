@@ -1177,6 +1177,10 @@ Software systems, Red Cross are used:
 
 Stats (to be confirmed):
 
+* <br>209,100</br> fire insurance claims in UK, 2017 (Morgan Clark)[https://www.morganclark.co.uk/about-us/blog/uk-home-insurance-claim-statistics/#:~:text=In%202017%20there%20were%201.23,(a%20147%25%20drop)]
+* <br>369,000</br> fire insurance claims in UK, 2017 (Morgan Clark)[https://www.morganclark.co.uk/about-us/blog/uk-home-insurance-claim-statistics/#:~:text=In%202017%20there%20were%201.23,(a%20147%25%20drop)]
+
+
 * __0__ recent service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 * __0__ potential service users - [source](https://britishredcrosssociety.github.io/mapping-services-crisis-response/)
 
