@@ -28,8 +28,8 @@ _9 services:_
 [Plan for severe winter weather in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-severe-winter-weather-in-your-area)<br>
 [Plan for hot weather in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-hot-weather-in-your-area)<br>
 [Plan for a terroist attack in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-terroist-attack-in-your-area)<br>
-[Plan for a industrial or chemical accident in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-industrial-or-chemical-accident)<br>
-[Plan for a plane crash in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-plane-crash-in-your-area)<br>
+[Plan for a industrial or chemical accident in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-industrial-or-chemical-accident-in-year-area)<br>
+[Plan for a plane or train crash in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-a-plane-or-train-crash-in-your-area)<br>
 [Plan for Brexit in your area](https://britishredcrosssociety.github.io/mapping-services-crisis-response/#plan-for-Brexit-in-your-area)
 
 ### Plan for a flood in your area
