@@ -1,6 +1,6 @@
 # Services as users see them, Emergency Response
 
-*Last updated 5 January*
+*Last updated 9 February*
 
 This is our team's current understanding of services in Crisis Response. It will certainly change as we speak to more people and analyse more data.
 
@@ -13,14 +13,10 @@ Services by emergency stage:
 
 Background information:
 
+* [Big drawing of services](https://miro.com/app/board/o9J_lWrTqi0=/)
 * [Videos: weekly show and tells](https://www.youtube.com/channel/UCoXybfuTqcdIO75U9DAI9uQ/videos)
 * [Blog post introducing this work](https://medium.com/digital-and-innovation-at-british-red-cross/mapping-services-as-users-see-them-9b09c2defd69)
-* [Project plan](https://trello.com/b/iCcfvBM0/mapping-services-crisis-response)
 * [How we name services](https://www.gov.uk/service-manual/design/naming-your-service)
-
-### Suggestions and comments
-
-Send suggestions or comments to harrytrimble@redcross.org.uk or [fill in this form](https://forms.office.com/Pages/ResponsePage.aspx?id=ujzc_l7KiEOoN7Rcfw1xt8szqeWGpq5MoJTS9323z7VUNFY1U09BWjVHTUpGMlJUSVM2R1RaWExJMy4u)
 
 ## Stage one - Mitigation 
 
@@ -38,16 +34,14 @@ _9 services:_
 
 ### Plan for a flood in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -55,10 +49,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -67,16 +57,14 @@ Stats:
 
 ### Plan for a fire in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -84,10 +72,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -96,16 +80,14 @@ Stats:
 
 ### Plan for a power cut in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -113,11 +95,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
-
 Stats:
 
 * We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
@@ -125,16 +102,14 @@ Stats:
 
 ### Plan for severe winter weather in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -142,10 +117,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -154,16 +125,14 @@ Stats:
 
 ### Plan for hot weather in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -171,10 +140,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -187,12 +152,14 @@ Tasks for service users:
 
 > we don't know yet
 
-How is this service delivered now:
+Steps involves:
 
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -200,10 +167,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -212,16 +175,14 @@ Stats:
 
 ### Plan for a industrial or chemical accident in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -229,10 +190,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -241,16 +198,14 @@ Stats:
 
 ### Plan for a plane or train crash in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -258,10 +213,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
 
 Stats:
 
@@ -270,16 +221,14 @@ Stats:
 
 ### Plan for Brexit in your area
 
-Tasks for service users:
+Steps involves:
 
-> we don't know yet
-
-How is this service delivered now:
-
-* Attend regular local resilience forum meetings
-* Meet local council emergency planning teams
-* Chair voluntary sub-sector groups of resilience forums
-* Take part in local emergency exercises
+1. Attend regular local resilience forum meetings
+1. Attend voluntary sub-sector groups
+1. Update risk registers
+1. Update emergency plans
+1. Meetings with council planning teams
+1. Emergency practice exercises
 
 Who's involved:
 
@@ -287,11 +236,6 @@ Who's involved:
 * [Local resilience forums](https://www.gov.uk/guidance/local-resilience-forums-contact-details)
 * local community groups
 * local charities
-
-Software systems, Red Cross are used:
-
-> To be confirmed
-
 Stats:
 
 * We sit on <b>37</b> out of <b>53</b> local  planning groups (LRFs/EPGs/RRGs).
@@ -322,7 +266,7 @@ Tasks for service users:
 1. Prepare a grab bag
 1. Prepare your home to be flooded
 
-How is this service delivered now:
+Steps involves:
 
 * Online content and services on government websites
 * Content on redcross.org.uk 
@@ -360,7 +304,7 @@ Tasks for service users:
 1. Install fire alarms  and extinguishers
 1. Prepare a grab bag
 
-How is this service delivered now:
+Steps involves:
 
 * Open days by local fire service
 * Safety campaigns by local fire services
@@ -393,7 +337,7 @@ Tasks for service users:
 1. Find out when power will come back on
 1. Get assurance and human contact
 
-How is this service delivered now:
+Steps involves:
 
 * Content on power companies' websites 
 * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
@@ -425,7 +369,7 @@ Tasks for service users:
 1. Get updates about weather
 1. Make a plan with people nearby
 
-How is this service delivered now:
+Steps involves:
 
 Content on * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps) and [this page on redcross.org.uk](https://www.redcross.org.uk/get-involved/teaching-resources/winter-journey). Some content on [Red Cross training site](https://www.redcrossfirstaidtraining.co.uk/news-and-legislation/latest-news/heatwave-first-aid-tips-staying-safe-in-the-hot-weather/). Signing up for weather warnings from [Met Office](https://www.metoffice.gov.uk/public/weather/cold-weather-alert/?tab=coldWeatherAlert&season=normal). Public awareness campaigns by education team. 
 
@@ -454,7 +398,7 @@ Tasks for service users:
 
 1. We don't know yet
 
-How is this service delivered now:
+Steps involves:
 
 * Content on [NHS.UK](https://www.nhs.uk/live-well/healthy-body/heatwave-how-to-cope-in-hot-weather/) 
 * [Emergency App](https://www.redcross.org.uk/get-help/prepare-for-emergencies/free-emergency-apps)
@@ -489,7 +433,7 @@ Tasks for service users:
 1. Find missing loved ones
 1. Get emotional support
 
-How is this service delivered now:
+Steps involves:
 
 * Police social meda teams
 * [Government public awareness campaigns](https://act.campaign.gov.uk/)
@@ -530,7 +474,7 @@ Learn to:
 1. Deal with local people wanting to help
 1. Deal with donations
 
-How is this service delivered now:
+Steps involves:
 
 * Council emergency planning exercises, which ER staff take part in
 * Training local organisations, run by regional ER staff
@@ -556,7 +500,7 @@ Tasks for service users:
 
 * We don't know yet - speak to psychosocial team
 
-How is this service delivered now:
+Steps involves:
 
 * CALMER training run Psychosocial teams 
 
@@ -614,7 +558,7 @@ Tasks for service users:
 1. Recieve money
 1. Learn about other financial support
 
-How is this service delivered now:
+Steps involves:
 
 * People calling Coronavirus Support Line
 * Peopel referred by local partners to Hardship Fund - can take seven days to arrive
@@ -649,7 +593,7 @@ Tasks for service users:
 1. Find way to travel
 1. Prove your identity
 
-How is this service delivered now:
+Steps involves:
 
 1. Fire services calling CRCC
 1. Volunteers in person helping people contact council housing teams, home insurers, landlords and hotels
@@ -679,7 +623,7 @@ Tasks for service users:
 
 > To be confirm
 
-How is this service delivered now:
+Steps involves:
 
 > To be confirmeed
 
@@ -703,7 +647,7 @@ Tasks for service users:
 
 > To be confirm
 
-How is this service delivered now:
+Steps involves:
 
 > To be confirmeed
 
@@ -732,7 +676,7 @@ Tasks for service users:
 1. Check delivery details
 1. Get food delivered
 
-How is this service delivered now:
+Steps involves:
 
 * Delivering food parcels people call up for
 * Do shopping for people and deliver it to their house
@@ -772,7 +716,7 @@ Tasks for service users:
 1. Check delivery details
 1. Get medication delivered
 
-How is this service delivered now:
+Steps involves:
 
 1. Someone who needs medication delivered, calls up [Coronavirus Support Line](https://www.redcross.org.uk/get-help/coronavirus)
 1. Details gets passed onto regional ER team
@@ -817,7 +761,7 @@ Tasks involve:
 1. Assess people's needs
 1. Help people plan their next steps
 
-How is this service delivered now:
+Steps involves:
 
 * Memorandum of Understanding between fire services and BRC
 * Fire services call up CRCC
@@ -857,7 +801,7 @@ Taks involved:
   1. Assess people's any urgent needs
   1. Help people plan their next steps
 
-How is this service delivered now:
+Steps involves:
 
 * Memorandum of Understanding between utility companies and BRC
 * Fire services call up CRCC
@@ -891,7 +835,7 @@ Tasks for service users:
 
 * we  don't know yet - will speak to teams who've responded to this
 
-How is this service delivered now:
+Steps involves:
 
 * Police contacting regional ER teams ahead of time
 * Planning with police days and weeks beforehand
@@ -919,7 +863,7 @@ Tasks for service users:
 
 > we  don't know yet - will speak to teams who've responded to a terror attack
 
-How is this service delivered now:
+Steps involves:
 
 > we  don't know yet - will speak to teams who've responded to a terror attack 
 
@@ -950,7 +894,7 @@ Tasks for service users:
 
 > we  don't know yet - will speak to teams who've responded to a terror attack
 
-How is this service delivered now:
+Steps involves:
 
 > we  don't know yet - will speak to teams who've responded to a terror attack 
 
@@ -1024,7 +968,7 @@ Tasks involved
 1. Claim back expenses
 1. Give feedback about shift experiene
 
-How is this service delivered now:
+Steps involves:
 
 People sign up online and get message if and when an emergency happens near them. They decide to respond or not (90% not)
 
@@ -1050,7 +994,7 @@ Tasks for service users:
 
 * find out more about different size and types of goods donated
 
-How is this service delivered now:
+Steps involves:
 
 * Crisis Response team contact partners to donate goods
 * Local people bring items to an emergency centre
@@ -1090,7 +1034,7 @@ Tasks for service users:
 1. Speak to someone
 1. Find specialist services
 
-How is this service delivered now:
+Steps involves:
 
 > To be confirm by interviewing teams
 
@@ -1121,7 +1065,7 @@ Tasks for service users:
 5. Choose a housing option
 6. Get confirmation about 
 
-How is this service delivered now:
+Steps involves:
 
 > To be confirm by interviewing teams
 
@@ -1159,7 +1103,7 @@ Tasks for service users:
 1. Project manage repairs
 1. Renew home insurance
 
-How is this service delivered now:
+Steps involves:
 
 > To be confirm by interviewing teams
 
@@ -1191,7 +1135,7 @@ Tasks for service users:
 
 * We don't know yet - speak to support line volunteers to learn more
 
-How is this service delivered now:
+Steps involves:
 
 > To be confirm by interviewing teams
 
